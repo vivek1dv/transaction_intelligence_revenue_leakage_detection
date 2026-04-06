@@ -14,9 +14,9 @@ Insights and recommendations are provided on the following key areas:
 - **Merchant Health & Churn Classification:** Segmenting merchants by activity recency to identify At Risk and Churned cohorts before they disengage permanently.
 - **Business Category & GMV Benchmarking:** Comparing average ticket size, total GMV, and transaction volume across all business categories to identify high-value growth segments.
 
-The SQL queries used to inspect, clean, and analyse the data for this project can be found here: [SQL Queries](./sql/)
+The SQL queries used to inspect, clean, and analyse the data for this project can be found here: [SQL Queries](https://github.com/vivek1dv/transaction_intelligence_revenue_leakage_detection/blob/main/transaction_intelligence_%26_revenue_leakage_sql.sql)
 
-An interactive Power BI dashboard used to report and explore platform trends can be found here: [Power BI Dashboard](./powerbi/zorvyn_dashboard.pbix)
+An interactive Power BI dashboard used to report and explore platform trends can be found here: [Power BI Dashboard](https://github.com/vivek1dv/transaction_intelligence_revenue_leakage_detection/blob/main/transaction_intelligence_%26_revenue_leakage_bi.pbix)
 
 
 ## Data Structure & Initial Checks
@@ -29,7 +29,7 @@ The Zorvyn analytics database consists of five tables with 30,000+ datasets, 813
 - **dim_payment_method:** Payment method reference table with method name and category (Card-Based, Real-time, Banking, Credit, Prepaid).
 - **dim_failure_reason:** Failure reason reference table with reason label, reason category, and a recoverability flag indicating whether the failed transaction can be retried.
 
-[Entity Relationship Diagram here]
+![alt text](https://github.com/vivek1dv/transaction_intelligence_revenue_leakage_detection/blob/main/schema%20bi.png)
 
 
 ## Executive Summary
@@ -38,7 +38,7 @@ The Zorvyn analytics database consists of five tables with 30,000+ datasets, 813
 
 Zorvyn is facing a compounding revenue problem: ₹1.57M is leaking through delayed settlements and unresolved chargebacks, no payment method on the platform meets the minimum 95% success threshold, and 100% of tracked merchants are classified as Churned with over 1,000 days of inactivity. The platform's strongest GMV segment, Logistics, averages ₹60,633 per transaction but receives no targeted growth or retention effort, while ₹8.71L+ in failed GMV sits recoverable through a simple retry mechanism that does not yet exist.
 
-[Visualization: Executive Summary Dashboard snapshot]
+![alt text](https://github.com/vivek1dv/transaction_intelligence_revenue_leakage_detection/blob/main/Executive%20Summary.png)
 
 
 ## Insights Deep Dive
@@ -53,7 +53,7 @@ Zorvyn is facing a compounding revenue problem: ₹1.57M is leaking through dela
 
 - **Fraud Block and Bank Declined failures are non-recoverable and need fraud model review.** Fraud Block accounts for 8 failures and ₹1.13L in lost GMV. Since these cannot be retried, they require upstream fraud model tuning rather than session-level recovery.
 
-[Visualization: Transaction Health Dashboard]
+![alt text](https://github.com/vivek1dv/transaction_intelligence_revenue_leakage_detection/blob/main/Merchant%20Health.png)
 
 
 ### Revenue Leakage & Settlement Analysis
@@ -66,7 +66,7 @@ Zorvyn is facing a compounding revenue problem: ₹1.57M is leaking through dela
 
 - **299 chargebacks have been raised with no tier-based correlation.** ByteCart Technologies826 (Gold tier) carries the highest disputed amount at ₹2,23,375 across just 3 chargebacks, showing that chargeback severity cannot be managed by tier alone.
 
-[Visualization: Revenue & Settlement Dashboard]
+![alt text](https://github.com/vivek1dv/transaction_intelligence_revenue_leakage_detection/blob/main/Revenue%20%26%20Settlement.png)
 
 
 ### Merchant Health & Churn Classification
@@ -79,20 +79,8 @@ Zorvyn is facing a compounding revenue problem: ₹1.57M is leaking through dela
 
 - **The churn classification query is production-ready for weekly scheduling.** The SQL logic using MAX(txn_timestamp) and DATEDIFF requires no modification to run as a weekly monitoring job, giving the merchant success team a live churn risk view rather than a static historical snapshot.
 
-[Visualization: Merchant Health Dashboard]
+![alt text](https://github.com/vivek1dv/transaction_intelligence_revenue_leakage_detection/blob/main/Merchant%20Health.png)
 
-
-### Business Category & GMV Benchmarking
-
-- **Logistics is the highest-value category with an average transaction of ₹60,633.** This is 3.3x higher than E-Commerce (₹18,289) and 1.2x higher than Media & Entertainment (₹48,985). Despite generating the highest per-transaction revenue, Logistics has no dedicated growth or retention strategy visible in the platform data.
-
-- **Media & Entertainment generates the highest transaction count at 46 with strong GMV of ₹22.53L.** Combined with Logistics, these two categories account for a disproportionate share of total platform GMV relative to their transaction volume, making them the most capital-efficient segments on the platform.
-
-- **E-Commerce has the lowest average ticket at ₹18,289 despite matching Retail in transaction count at 28.** This makes E-Commerce a volume-dependent category where growth requires significantly higher transaction frequency to move the GMV needle.
-
-- **Insurance generates ₹32,211 per transaction with 31 transactions, placing it mid-tier by both volume and ticket size.** Given that Insurance is a recurring payment category by nature, the relatively low transaction count suggests either low merchant penetration or frequent payment failures specific to this category.
-
-[Visualization: Executive Summary — Revenue by Business Category]
 
 
 ## Recommendations
