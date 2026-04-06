@@ -1,0 +1,11 @@
+reason_id,reason_code,reason_label,reason_category,is_recoverable
+1,INSUF_FUNDS,Insufficient Funds,Insufficient Funds,TRUE
+2,BANK_DECLINED,Bank Declined,Bank Declined,FALSE
+3,NET_TIMEOUT,Network Timeout,Network Error,TRUE
+4,NET_ERROR,Network Error,Network Error,TRUE
+5,FRAUD_BLOCK,Fraud Block,Fraud Block,FALSE
+6,USER_ABANDON,User Abandoned,User Abandoned,TRUE
+7,EXPIRED_CARD,Expired Card,Bank Declined,FALSE
+8,INVALID_OTP,Invalid OTP,User Abandoned,TRUE
+9,BANK_DOWNTIME,Bank Downtime,Network Error,TRUE
+10,LIMIT_EXCEED,Daily Limit Exceeded,Bank Declined,FALSE

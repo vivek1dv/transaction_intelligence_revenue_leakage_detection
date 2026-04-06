@@ -1,0 +1,8 @@
+method_id,method_name,method_category,provider,processing_fee_pct,avg_latency_ms
+1,UPI,Real-time,NPCI,0.003,120
+2,Credit Card,Card-Based,Visa/Mastercard,0.018,350
+3,Debit Card,Card-Based,RuPay/Visa,0.009,300
+4,Net Banking,Banking,Various Banks,0.012,800
+5,Wallet,Prepaid,Paytm/PhonePe/Amazon,0.0075,200
+6,BNPL,Credit,LazyPay/Simpl/ZestMoney,0.02,600
+7,NACH,Banking,NPCI,0.005,2400

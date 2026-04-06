@@ -1,0 +1,651 @@
+merchant_id,merchant_name,business_category,merchant_tier,onboard_date,state,city,kyc_status,risk_category,account_manager_id,monthly_gmv_band,is_active,churn_date,created_at
+MER00001,PharmaEase Health,HealthTech,Platinum,2021-10-09,Karnataka,Bengaluru,Verified,High,AM003,1L-10L,TRUE,,2021-10-09 00:00:00
+MER00002,LearnNow EdTech,E-Commerce,Gold,2021-08-27,Maharashtra,Pune,Verified,Medium,AM014,<1L,TRUE,,2021-08-27 00:00:00
+MER00003,FinSecure Broking,HealthTech,Bronze,2021-01-07,Telangana,Nizamabad,Verified,Low,AM011,<1L,TRUE,,2021-01-07 00:00:00
+MER00004,HealthFirst Clinics,E-Commerce,Silver,2021-12-19,Karnataka,Mangaluru,Verified,Critical,AM013,<1L,TRUE,,2021-12-19 00:00:00
+MER00005,PlayStream Media,Logistics,Silver,2023-06-02,Andhra Pradesh,Visakhapatnam,Verified,Low,AM010,>1Cr,TRUE,,2023-06-02 00:00:00
+MER00006,QuickFix Services,FMCG,Bronze,2022-01-25,Delhi,Dwarka,Verified,Low,AM009,10L-1Cr,TRUE,,2022-01-25 00:00:00
+MER00007,RapidShip Courier,Logistics,Platinum,2022-10-13,Punjab,Ludhiana,Verified,Low,AM018,<1L,TRUE,,2022-10-13 00:00:00
+MER00008,ByteCart Technologies,E-Commerce,Bronze,2021-02-27,Andhra Pradesh,Guntur,Verified,Low,AM019,10L-1Cr,TRUE,,2021-02-27 00:00:00
+MER00009,ByteCart Technologies317,SaaS,Silver,2022-10-21,Punjab,Ludhiana,Verified,Medium,AM009,10L-1Cr,TRUE,,2022-10-21 00:00:00
+MER00010,CargoExpress Logistics,HealthTech,Silver,2022-01-06,Bihar,Bhagalpur,Verified,Low,AM004,<1L,TRUE,,2022-01-06 00:00:00
+MER00011,FreshDeal FMCG,Media & Entertainment,Bronze,2022-09-03,Madhya Pradesh,Gwalior,Verified,Critical,AM001,10L-1Cr,FALSE,2023-11-27,2022-09-03 00:00:00
+MER00012,SwiftLog Solutions,FMCG,Bronze,2023-02-08,Punjab,Amritsar,Verified,Low,AM001,>1Cr,TRUE,,2023-02-08 00:00:00
+MER00013,AgroLink Farms,Insurance,Gold,2022-05-28,Kerala,Kochi,Pending,Low,AM017,1L-10L,TRUE,,2022-05-28 00:00:00
+MER00014,CloudSuite SaaS,Insurance,Bronze,2022-07-07,Gujarat,Ahmedabad,Verified,Low,AM004,>1Cr,TRUE,,2022-07-07 00:00:00
+MER00015,AgroLink Farms951,Media & Entertainment,Silver,2021-03-01,Madhya Pradesh,Bhopal,Verified,Low,AM003,>1Cr,TRUE,,2021-03-01 00:00:00
+MER00016,StyleHub Fashion,Insurance,Gold,2022-11-07,Madhya Pradesh,Indore,Verified,High,AM014,>1Cr,TRUE,,2022-11-07 00:00:00
+MER00017,PrintPro Design,SaaS,Bronze,2022-12-08,Uttar Pradesh,Varanasi,Rejected,Medium,AM015,10L-1Cr,TRUE,,2022-12-08 00:00:00
+MER00018,DataDrive Analytics,Media & Entertainment,Gold,2021-03-07,Karnataka,Mysuru,Verified,Low,AM002,<1L,TRUE,,2021-03-07 00:00:00
+MER00019,AgroLink Farms132,Retail,Silver,2022-06-11,Andhra Pradesh,Vijayawada,Verified,Medium,AM019,1L-10L,TRUE,,2022-06-11 00:00:00
+MER00020,QuickMart Retail,EdTech,Silver,2022-02-21,Madhya Pradesh,Gwalior,Verified,Low,AM002,10L-1Cr,TRUE,,2022-02-21 00:00:00
+MER00021,PharmaEase Health200,EdTech,Silver,2021-12-14,Maharashtra,Pune,Verified,Medium,AM005,1L-10L,TRUE,,2021-12-14 00:00:00
+MER00022,SafeShield Insurance,Insurance,Gold,2021-03-19,West Bengal,Kolkata,Verified,Critical,AM001,>1Cr,TRUE,,2021-03-19 00:00:00
+MER00023,PrintPro Design871,Logistics,Gold,2022-02-21,Andhra Pradesh,Nellore,Pending,Low,AM001,>1Cr,TRUE,,2022-02-21 00:00:00
+MER00024,SafeShield Insurance902,Insurance,Silver,2022-03-10,Madhya Pradesh,Gwalior,Verified,Low,AM002,1L-10L,TRUE,,2022-03-10 00:00:00
+MER00025,StyleHub Fashion162,Insurance,Silver,2021-02-21,Kerala,Thiruvananthapuram,Verified,Medium,AM006,<1L,TRUE,,2021-02-21 00:00:00
+MER00026,MediQuick Health,Media & Entertainment,Bronze,2022-02-18,Punjab,Ludhiana,Verified,Low,AM003,1L-10L,TRUE,,2022-02-18 00:00:00
+MER00027,FinSecure Broking678,FMCG,Silver,2021-09-25,Uttar Pradesh,Kanpur,Verified,Low,AM010,1L-10L,TRUE,,2021-09-25 00:00:00
+MER00028,PrintPro Design869,Media & Entertainment,Platinum,2022-04-15,Bihar,Patna,Verified,Low,AM009,<1L,TRUE,,2022-04-15 00:00:00
+MER00029,EduPath Learning,HealthTech,Platinum,2021-09-08,Bihar,Bhagalpur,Pending,Medium,AM020,>1Cr,TRUE,,2021-09-08 00:00:00
+MER00030,DevOps360 SaaS,SaaS,Silver,2022-11-15,Punjab,Amritsar,Pending,Low,AM004,10L-1Cr,TRUE,,2022-11-15 00:00:00
+MER00031,StreamZone OTT,FMCG,Gold,2021-10-16,Uttar Pradesh,Kanpur,Verified,High,AM017,1L-10L,TRUE,,2021-10-16 00:00:00
+MER00032,AgroLink Farms966,E-Commerce,Gold,2022-03-10,Maharashtra,Mumbai,Verified,Low,AM009,<1L,TRUE,,2022-03-10 00:00:00
+MER00033,DataDrive Analytics664,HealthTech,Silver,2021-01-10,Kerala,Kochi,Pending,Medium,AM005,1L-10L,TRUE,,2021-01-10 00:00:00
+MER00034,LearnNow EdTech415,E-Commerce,Bronze,2023-03-27,Gujarat,Vadodara,Verified,Low,AM004,1L-10L,TRUE,,2023-03-27 00:00:00
+MER00035,StyleHub Fashion995,Logistics,Bronze,2023-02-07,Rajasthan,Jodhpur,Rejected,High,AM014,<1L,TRUE,,2023-02-07 00:00:00
+MER00036,StreamZone OTT440,Logistics,Bronze,2023-04-02,Madhya Pradesh,Jabalpur,Verified,Medium,AM013,10L-1Cr,TRUE,,2023-04-02 00:00:00
+MER00037,QuickFix Services581,Logistics,Gold,2022-04-17,Delhi,Dwarka,Verified,Low,AM011,<1L,TRUE,,2022-04-17 00:00:00
+MER00038,MediQuick Health891,Insurance,Silver,2022-06-06,Telangana,Karimnagar,Pending,Low,AM009,<1L,TRUE,,2022-06-06 00:00:00
+MER00039,SafeShield Insurance139,FMCG,Silver,2021-12-20,Karnataka,Mangaluru,Verified,Medium,AM013,10L-1Cr,TRUE,,2021-12-20 00:00:00
+MER00040,JetTravel Pvt Ltd,Logistics,Platinum,2022-03-23,Telangana,Karimnagar,Verified,High,AM011,1L-10L,FALSE,2023-11-24,2022-03-23 00:00:00
+MER00041,RapidShip Courier968,Travel,Bronze,2021-11-04,Karnataka,Hubli,Verified,Low,AM005,<1L,TRUE,,2021-11-04 00:00:00
+MER00042,RapidShip Courier488,SaaS,Bronze,2021-06-28,Punjab,Patiala,Verified,Low,AM010,<1L,TRUE,,2021-06-28 00:00:00
+MER00043,DevOps360 SaaS693,Logistics,Bronze,2022-04-22,Haryana,Hisar,Verified,Critical,AM006,10L-1Cr,TRUE,,2022-04-22 00:00:00
+MER00044,PlayStream Media627,Logistics,Bronze,2021-12-10,Punjab,Jalandhar,Verified,Low,AM001,<1L,TRUE,,2021-12-10 00:00:00
+MER00045,GrocerFast App,Media & Entertainment,Bronze,2021-03-16,Haryana,Faridabad,Verified,Low,AM013,<1L,TRUE,,2021-03-16 00:00:00
+MER00046,PharmaEase Health804,EdTech,Bronze,2023-06-01,Maharashtra,Thane,Verified,High,AM017,1L-10L,TRUE,,2023-06-01 00:00:00
+MER00047,StyleHub Fashion355,Retail,Bronze,2022-04-13,Bihar,Muzaffarpur,Rejected,High,AM020,10L-1Cr,TRUE,,2022-04-13 00:00:00
+MER00048,AgroLink Farms616,HealthTech,Bronze,2022-07-16,Rajasthan,Kota,Verified,Medium,AM009,10L-1Cr,TRUE,,2022-07-16 00:00:00
+MER00049,SkyFly Travels,SaaS,Silver,2021-10-09,West Bengal,Howrah,Verified,Low,AM018,<1L,TRUE,,2021-10-09 00:00:00
+MER00050,CloudSuite SaaS336,Travel,Bronze,2022-12-25,Rajasthan,Kota,Verified,Low,AM002,<1L,TRUE,,2022-12-25 00:00:00
+MER00051,CargoExpress Logistics498,Travel,Bronze,2022-12-14,Bihar,Bhagalpur,Verified,Low,AM013,10L-1Cr,FALSE,2024-09-23,2022-12-14 00:00:00
+MER00052,MegaMall Retail,Media & Entertainment,Silver,2023-01-23,Rajasthan,Jodhpur,Verified,Low,AM016,<1L,TRUE,,2023-01-23 00:00:00
+MER00053,ByteCart Technologies784,Retail,Bronze,2023-01-12,Punjab,Ludhiana,Rejected,Medium,AM013,1L-10L,TRUE,,2023-01-12 00:00:00
+MER00054,RapidShip Courier127,HealthTech,Bronze,2021-05-19,Karnataka,Bengaluru,Verified,Low,AM015,1L-10L,TRUE,,2021-05-19 00:00:00
+MER00055,LeapEdu Platform,Travel,Silver,2023-02-10,Bihar,Muzaffarpur,Pending,Low,AM018,<1L,TRUE,,2023-02-10 00:00:00
+MER00056,EduPath Learning329,Logistics,Platinum,2022-10-30,Punjab,Ludhiana,Pending,Medium,AM008,<1L,FALSE,2023-01-29,2022-10-30 00:00:00
+MER00057,RapidShip Courier217,FMCG,Bronze,2022-04-22,Haryana,Faridabad,Verified,Critical,AM004,10L-1Cr,TRUE,,2022-04-22 00:00:00
+MER00058,FreshDeal FMCG418,Travel,Silver,2021-11-16,Karnataka,Mangaluru,Rejected,Low,AM019,10L-1Cr,TRUE,,2021-11-16 00:00:00
+MER00059,PharmaEase Health348,Media & Entertainment,Bronze,2021-11-05,Karnataka,Bengaluru,Verified,Medium,AM002,1L-10L,TRUE,,2021-11-05 00:00:00
+MER00060,CargoExpress Logistics777,Travel,Platinum,2022-10-26,Gujarat,Rajkot,Verified,Critical,AM015,10L-1Cr,TRUE,,2022-10-26 00:00:00
+MER00061,CargoExpress Logistics280,Insurance,Silver,2022-10-29,Kerala,Thrissur,Verified,High,AM019,<1L,TRUE,,2022-10-29 00:00:00
+MER00062,QuickFix Services351,Logistics,Bronze,2021-10-13,Andhra Pradesh,Nellore,Verified,Medium,AM011,<1L,TRUE,,2021-10-13 00:00:00
+MER00063,QuickFix Services432,FMCG,Silver,2021-12-30,Tamil Nadu,Madurai,Pending,Medium,AM009,1L-10L,TRUE,,2021-12-30 00:00:00
+MER00064,SkyFly Travels295,Logistics,Gold,2022-02-21,Karnataka,Mangaluru,Verified,Low,AM001,<1L,TRUE,,2022-02-21 00:00:00
+MER00065,QuickMart Retail514,Retail,Gold,2022-11-11,Kerala,Kozhikode,Verified,Medium,AM011,1L-10L,TRUE,,2022-11-11 00:00:00
+MER00066,DataDrive Analytics377,FMCG,Gold,2021-05-04,Telangana,Hyderabad,Verified,Critical,AM006,<1L,TRUE,,2021-05-04 00:00:00
+MER00067,StreamZone OTT595,SaaS,Bronze,2023-02-18,Telangana,Hyderabad,Pending,Low,AM012,<1L,TRUE,,2023-02-18 00:00:00
+MER00068,ShopKart India,Insurance,Silver,2021-10-08,Kerala,Kozhikode,Verified,Low,AM016,<1L,FALSE,2022-01-31,2021-10-08 00:00:00
+MER00069,ShopKart India687,E-Commerce,Silver,2022-03-28,Telangana,Karimnagar,Rejected,Low,AM003,1L-10L,TRUE,,2022-03-28 00:00:00
+MER00070,MediQuick Health690,Media & Entertainment,Bronze,2021-06-05,Punjab,Jalandhar,Verified,Low,AM018,10L-1Cr,TRUE,,2021-06-05 00:00:00
+MER00071,TechNation Cloud,Travel,Bronze,2021-08-20,Haryana,Hisar,Pending,Low,AM019,>1Cr,TRUE,,2021-08-20 00:00:00
+MER00072,PlayStream Media682,Logistics,Platinum,2023-01-28,Haryana,Faridabad,Verified,Low,AM008,<1L,TRUE,,2023-01-28 00:00:00
+MER00073,MediQuick Health260,SaaS,Silver,2022-12-07,Maharashtra,Mumbai,Verified,Medium,AM015,<1L,TRUE,,2022-12-07 00:00:00
+MER00074,QuickMart Retail370,Logistics,Bronze,2022-08-27,Madhya Pradesh,Gwalior,Verified,Low,AM005,>1Cr,TRUE,,2022-08-27 00:00:00
+MER00075,MegaMall Retail245,Media & Entertainment,Platinum,2023-03-23,Karnataka,Hubli,Verified,Low,AM010,10L-1Cr,TRUE,,2023-03-23 00:00:00
+MER00076,SafeShield Insurance612,Travel,Silver,2021-03-24,Uttar Pradesh,Agra,Verified,Low,AM008,>1Cr,TRUE,,2021-03-24 00:00:00
+MER00077,MegaMall Retail981,SaaS,Silver,2021-01-22,Haryana,Gurugram,Verified,Low,AM017,10L-1Cr,TRUE,,2021-01-22 00:00:00
+MER00078,PrintPro Design384,Retail,Bronze,2022-03-23,Tamil Nadu,Chennai,Verified,Low,AM011,10L-1Cr,TRUE,,2022-03-23 00:00:00
+MER00079,QuickFix Services264,Travel,Silver,2022-05-23,Gujarat,Ahmedabad,Verified,Low,AM011,<1L,TRUE,,2022-05-23 00:00:00
+MER00080,LeapEdu Platform513,Insurance,Silver,2021-01-02,Andhra Pradesh,Nellore,Verified,Low,AM012,1L-10L,TRUE,,2021-01-02 00:00:00
+MER00081,GrocerFast App740,HealthTech,Bronze,2021-07-28,West Bengal,Durgapur,Verified,Medium,AM004,<1L,TRUE,,2021-07-28 00:00:00
+MER00082,PharmaEase Health723,E-Commerce,Gold,2021-06-12,Madhya Pradesh,Gwalior,Verified,Critical,AM004,1L-10L,TRUE,,2021-06-12 00:00:00
+MER00083,SwiftLog Solutions763,SaaS,Gold,2023-01-04,Andhra Pradesh,Nellore,Pending,Critical,AM008,1L-10L,TRUE,,2023-01-04 00:00:00
+MER00084,CloudSuite SaaS492,HealthTech,Bronze,2022-06-05,Delhi,New Delhi,Verified,Medium,AM014,1L-10L,TRUE,,2022-06-05 00:00:00
+MER00085,DevOps360 SaaS619,Media & Entertainment,Bronze,2021-10-17,Telangana,Nizamabad,Pending,Low,AM016,1L-10L,TRUE,,2021-10-17 00:00:00
+MER00086,StyleHub Fashion881,Logistics,Silver,2021-11-26,Uttar Pradesh,Varanasi,Verified,Medium,AM002,1L-10L,TRUE,,2021-11-26 00:00:00
+MER00087,GrocerFast App822,HealthTech,Bronze,2022-01-31,Bihar,Bhagalpur,Rejected,Low,AM019,1L-10L,TRUE,,2022-01-31 00:00:00
+MER00088,SwiftLog Solutions995,E-Commerce,Silver,2022-06-23,Andhra Pradesh,Vijayawada,Verified,Medium,AM005,<1L,TRUE,,2022-06-23 00:00:00
+MER00089,DevOps360 SaaS371,FMCG,Silver,2022-02-12,Gujarat,Rajkot,Rejected,Medium,AM016,10L-1Cr,TRUE,,2022-02-12 00:00:00
+MER00090,LearnNow EdTech732,Logistics,Gold,2022-12-02,Karnataka,Bengaluru,Verified,Low,AM004,1L-10L,TRUE,,2022-12-02 00:00:00
+MER00091,GreenMart Organic,E-Commerce,Bronze,2021-02-17,Telangana,Karimnagar,Verified,Low,AM008,1L-10L,TRUE,,2021-02-17 00:00:00
+MER00092,FinSecure Broking798,Media & Entertainment,Gold,2021-06-29,Madhya Pradesh,Indore,Verified,Medium,AM008,1L-10L,FALSE,2022-09-23,2021-06-29 00:00:00
+MER00093,SafeShield Insurance570,SaaS,Bronze,2023-04-04,Telangana,Warangal,Verified,High,AM019,<1L,TRUE,,2023-04-04 00:00:00
+MER00094,CargoExpress Logistics806,Travel,Silver,2021-11-06,Telangana,Nizamabad,Verified,Low,AM012,1L-10L,TRUE,,2021-11-06 00:00:00
+MER00095,GreenMart Organic402,E-Commerce,Bronze,2022-11-06,Maharashtra,Mumbai,Pending,Medium,AM010,10L-1Cr,TRUE,,2022-11-06 00:00:00
+MER00096,QuickMart Retail721,SaaS,Silver,2022-10-14,Madhya Pradesh,Indore,Verified,High,AM002,1L-10L,TRUE,,2022-10-14 00:00:00
+MER00097,DataDrive Analytics134,SaaS,Silver,2021-05-15,Haryana,Ambala,Verified,Low,AM005,10L-1Cr,TRUE,,2021-05-15 00:00:00
+MER00098,AgroLink Farms474,SaaS,Silver,2021-10-07,Uttar Pradesh,Varanasi,Rejected,Low,AM011,10L-1Cr,TRUE,,2021-10-07 00:00:00
+MER00099,DataDrive Analytics177,Travel,Bronze,2021-08-20,Tamil Nadu,Madurai,Verified,Low,AM009,1L-10L,TRUE,,2021-08-20 00:00:00
+MER00100,DataDrive Analytics477,FMCG,Bronze,2021-09-26,Punjab,Amritsar,Verified,Low,AM020,10L-1Cr,TRUE,,2021-09-26 00:00:00
+MER00101,StyleHub Fashion435,SaaS,Silver,2022-10-26,Bihar,Bhagalpur,Verified,Low,AM002,1L-10L,FALSE,2024-04-13,2022-10-26 00:00:00
+MER00102,GrocerFast App218,Retail,Gold,2022-07-05,Karnataka,Hubli,Verified,Medium,AM018,1L-10L,TRUE,,2022-07-05 00:00:00
+MER00103,StreamZone OTT844,Retail,Bronze,2022-11-02,Tamil Nadu,Salem,Pending,Low,AM012,<1L,TRUE,,2022-11-02 00:00:00
+MER00104,DataDrive Analytics341,FMCG,Silver,2022-12-04,Andhra Pradesh,Visakhapatnam,Verified,Low,AM004,>1Cr,TRUE,,2022-12-04 00:00:00
+MER00105,MegaMall Retail565,E-Commerce,Bronze,2022-10-20,Karnataka,Bengaluru,Verified,Low,AM005,10L-1Cr,TRUE,,2022-10-20 00:00:00
+MER00106,JetTravel Pvt Ltd170,Logistics,Bronze,2021-08-01,Andhra Pradesh,Guntur,Verified,Medium,AM020,<1L,TRUE,,2021-08-01 00:00:00
+MER00107,QuickFix Services248,E-Commerce,Silver,2023-03-29,Tamil Nadu,Coimbatore,Verified,Medium,AM008,1L-10L,TRUE,,2023-03-29 00:00:00
+MER00108,ShopKart India278,EdTech,Platinum,2023-01-30,Telangana,Hyderabad,Verified,Medium,AM017,1L-10L,TRUE,,2023-01-30 00:00:00
+MER00109,DataDrive Analytics615,Insurance,Bronze,2021-02-14,Delhi,Rohini,Verified,Critical,AM002,>1Cr,TRUE,,2021-02-14 00:00:00
+MER00110,QuickFix Services511,Retail,Bronze,2022-05-18,Rajasthan,Jaipur,Pending,Low,AM005,<1L,TRUE,,2022-05-18 00:00:00
+MER00111,SafeShield Insurance739,Media & Entertainment,Silver,2022-12-31,Punjab,Jalandhar,Verified,Medium,AM004,10L-1Cr,TRUE,,2022-12-31 00:00:00
+MER00112,SwiftLog Solutions973,Logistics,Bronze,2023-02-27,Punjab,Patiala,Verified,Low,AM011,10L-1Cr,TRUE,,2023-02-27 00:00:00
+MER00113,HealthFirst Clinics525,SaaS,Gold,2022-03-14,Kerala,Kozhikode,Rejected,Medium,AM016,<1L,TRUE,,2022-03-14 00:00:00
+MER00114,MegaMall Retail187,HealthTech,Silver,2023-02-02,Karnataka,Bengaluru,Verified,Medium,AM011,10L-1Cr,TRUE,,2023-02-02 00:00:00
+MER00115,CargoExpress Logistics462,E-Commerce,Bronze,2023-02-08,Andhra Pradesh,Guntur,Verified,Low,AM019,1L-10L,TRUE,,2023-02-08 00:00:00
+MER00116,CloudSuite SaaS772,Insurance,Gold,2021-04-21,West Bengal,Durgapur,Verified,Low,AM008,10L-1Cr,TRUE,,2021-04-21 00:00:00
+MER00117,QuickFix Services674,Insurance,Bronze,2022-09-21,Madhya Pradesh,Bhopal,Verified,Medium,AM009,<1L,TRUE,,2022-09-21 00:00:00
+MER00118,SafeShield Insurance819,HealthTech,Silver,2021-12-14,Madhya Pradesh,Indore,Verified,Low,AM005,10L-1Cr,TRUE,,2021-12-14 00:00:00
+MER00119,ShopKart India193,FMCG,Silver,2022-01-21,Kerala,Thiruvananthapuram,Verified,Medium,AM019,1L-10L,TRUE,,2022-01-21 00:00:00
+MER00120,AgroLink Farms153,SaaS,Gold,2022-09-25,Tamil Nadu,Salem,Verified,Low,AM015,1L-10L,FALSE,2023-02-15,2022-09-25 00:00:00
+MER00121,JetTravel Pvt Ltd873,Media & Entertainment,Gold,2022-03-17,Uttar Pradesh,Varanasi,Verified,Low,AM008,1L-10L,TRUE,,2022-03-17 00:00:00
+MER00122,TechNation Cloud156,SaaS,Gold,2021-08-05,Maharashtra,Nagpur,Verified,Low,AM014,<1L,TRUE,,2021-08-05 00:00:00
+MER00123,HealthFirst Clinics645,FMCG,Gold,2022-07-27,Kerala,Kochi,Verified,Medium,AM014,<1L,TRUE,,2022-07-27 00:00:00
+MER00124,PrintPro Design179,Travel,Silver,2022-03-16,Andhra Pradesh,Guntur,Verified,Low,AM011,<1L,TRUE,,2022-03-16 00:00:00
+MER00125,TechNation Cloud571,EdTech,Bronze,2022-01-06,Andhra Pradesh,Vijayawada,Verified,Low,AM003,1L-10L,TRUE,,2022-01-06 00:00:00
+MER00126,PlayStream Media863,Insurance,Gold,2023-03-09,Gujarat,Ahmedabad,Verified,Low,AM012,1L-10L,TRUE,,2023-03-09 00:00:00
+MER00127,MegaMall Retail760,Logistics,Gold,2021-04-16,Andhra Pradesh,Vijayawada,Verified,Medium,AM003,<1L,TRUE,,2021-04-16 00:00:00
+MER00128,LeapEdu Platform743,Retail,Silver,2022-08-01,West Bengal,Durgapur,Pending,Medium,AM005,1L-10L,TRUE,,2022-08-01 00:00:00
+MER00129,GrocerFast App552,FMCG,Silver,2021-10-09,Punjab,Amritsar,Verified,Low,AM002,1L-10L,TRUE,,2021-10-09 00:00:00
+MER00130,PlayStream Media178,Media & Entertainment,Bronze,2023-05-26,Punjab,Patiala,Verified,Medium,AM002,1L-10L,TRUE,,2023-05-26 00:00:00
+MER00131,DevOps360 SaaS685,HealthTech,Gold,2022-09-12,Punjab,Amritsar,Verified,High,AM011,>1Cr,TRUE,,2022-09-12 00:00:00
+MER00132,MediQuick Health616,Retail,Gold,2021-09-11,Punjab,Ludhiana,Verified,High,AM013,1L-10L,TRUE,,2021-09-11 00:00:00
+MER00133,ByteCart Technologies795,EdTech,Platinum,2022-10-09,Haryana,Ambala,Verified,Medium,AM010,<1L,TRUE,,2022-10-09 00:00:00
+MER00134,QuickFix Services772,Media & Entertainment,Silver,2021-06-03,Bihar,Gaya,Pending,Low,AM013,<1L,TRUE,,2021-06-03 00:00:00
+MER00135,GreenMart Organic186,HealthTech,Silver,2022-10-21,Telangana,Hyderabad,Verified,Low,AM012,<1L,TRUE,,2022-10-21 00:00:00
+MER00136,PlayStream Media284,Logistics,Silver,2023-02-24,Delhi,Dwarka,Verified,Low,AM004,1L-10L,TRUE,,2023-02-24 00:00:00
+MER00137,StyleHub Fashion955,Media & Entertainment,Bronze,2021-02-08,Kerala,Thiruvananthapuram,Verified,Low,AM006,10L-1Cr,TRUE,,2021-02-08 00:00:00
+MER00138,LeapEdu Platform739,Travel,Bronze,2023-01-09,Madhya Pradesh,Jabalpur,Verified,Low,AM015,1L-10L,TRUE,,2023-01-09 00:00:00
+MER00139,LeapEdu Platform866,Retail,Silver,2022-07-01,Madhya Pradesh,Indore,Verified,High,AM015,1L-10L,TRUE,,2022-07-01 00:00:00
+MER00140,PlayStream Media896,Logistics,Silver,2022-03-05,Rajasthan,Jodhpur,Pending,Low,AM016,10L-1Cr,TRUE,,2022-03-05 00:00:00
+MER00141,StyleHub Fashion205,EdTech,Bronze,2023-05-22,Kerala,Thiruvananthapuram,Verified,High,AM005,10L-1Cr,TRUE,,2023-05-22 00:00:00
+MER00142,MediQuick Health327,Travel,Silver,2021-12-24,Andhra Pradesh,Visakhapatnam,Verified,Low,AM013,>1Cr,TRUE,,2021-12-24 00:00:00
+MER00143,EduPath Learning329,FMCG,Silver,2021-04-12,Maharashtra,Pune,Verified,Low,AM016,10L-1Cr,TRUE,,2021-04-12 00:00:00
+MER00144,CloudSuite SaaS877,E-Commerce,Silver,2022-09-23,Kerala,Kozhikode,Verified,Low,AM020,1L-10L,FALSE,2023-02-11,2022-09-23 00:00:00
+MER00145,SwiftLog Solutions894,Media & Entertainment,Gold,2021-05-05,Telangana,Nizamabad,Verified,High,AM016,1L-10L,FALSE,2022-09-06,2021-05-05 00:00:00
+MER00146,ShopKart India747,Travel,Silver,2023-01-06,Uttar Pradesh,Lucknow,Verified,Low,AM014,<1L,TRUE,,2023-01-06 00:00:00
+MER00147,RapidShip Courier187,Insurance,Bronze,2021-03-11,Uttar Pradesh,Lucknow,Verified,Low,AM013,>1Cr,TRUE,,2021-03-11 00:00:00
+MER00148,SafeShield Insurance865,EdTech,Silver,2021-03-11,Maharashtra,Nagpur,Verified,Low,AM011,10L-1Cr,TRUE,,2021-03-11 00:00:00
+MER00149,FreshDeal FMCG950,HealthTech,Bronze,2022-12-14,Madhya Pradesh,Indore,Verified,Medium,AM015,<1L,TRUE,,2022-12-14 00:00:00
+MER00150,JetTravel Pvt Ltd144,SaaS,Gold,2021-02-12,Madhya Pradesh,Gwalior,Rejected,Medium,AM009,<1L,TRUE,,2021-02-12 00:00:00
+MER00151,PharmaEase Health295,SaaS,Silver,2023-03-11,Telangana,Hyderabad,Verified,Low,AM013,10L-1Cr,FALSE,2024-04-13,2023-03-11 00:00:00
+MER00152,AgroLink Farms495,FMCG,Bronze,2022-05-24,Gujarat,Vadodara,Verified,Medium,AM003,1L-10L,TRUE,,2022-05-24 00:00:00
+MER00153,MegaMall Retail284,SaaS,Silver,2021-04-16,Uttar Pradesh,Agra,Verified,Medium,AM006,10L-1Cr,TRUE,,2021-04-16 00:00:00
+MER00154,EduPath Learning557,Travel,Bronze,2021-12-28,Maharashtra,Nagpur,Verified,Medium,AM002,<1L,TRUE,,2021-12-28 00:00:00
+MER00155,PharmaEase Health515,E-Commerce,Silver,2023-02-07,Gujarat,Surat,Pending,Medium,AM015,<1L,TRUE,,2023-02-07 00:00:00
+MER00156,MediQuick Health341,Media & Entertainment,Bronze,2022-01-06,Madhya Pradesh,Bhopal,Verified,Medium,AM012,1L-10L,TRUE,,2022-01-06 00:00:00
+MER00157,LeapEdu Platform178,SaaS,Gold,2022-01-11,Haryana,Faridabad,Rejected,Low,AM006,1L-10L,TRUE,,2022-01-11 00:00:00
+MER00158,HealthFirst Clinics675,Logistics,Gold,2021-09-24,Karnataka,Hubli,Verified,Critical,AM007,<1L,TRUE,,2021-09-24 00:00:00
+MER00159,QuickFix Services175,EdTech,Gold,2023-01-01,West Bengal,Durgapur,Verified,Medium,AM018,1L-10L,TRUE,,2023-01-01 00:00:00
+MER00160,AgroLink Farms407,HealthTech,Gold,2022-12-28,Andhra Pradesh,Guntur,Verified,Low,AM007,10L-1Cr,TRUE,,2022-12-28 00:00:00
+MER00161,QuickMart Retail909,Retail,Platinum,2022-07-22,West Bengal,Howrah,Verified,Low,AM010,1L-10L,TRUE,,2022-07-22 00:00:00
+MER00162,GreenMart Organic836,Media & Entertainment,Silver,2023-02-27,West Bengal,Kolkata,Verified,Low,AM003,1L-10L,TRUE,,2023-02-27 00:00:00
+MER00163,RapidShip Courier629,Media & Entertainment,Gold,2023-04-29,Gujarat,Surat,Verified,Low,AM017,>1Cr,TRUE,,2023-04-29 00:00:00
+MER00164,LearnNow EdTech951,FMCG,Silver,2021-11-08,Karnataka,Mysuru,Verified,High,AM010,10L-1Cr,TRUE,,2021-11-08 00:00:00
+MER00165,SafeShield Insurance301,SaaS,Bronze,2021-10-09,Punjab,Amritsar,Verified,Low,AM019,<1L,TRUE,,2021-10-09 00:00:00
+MER00166,RapidShip Courier739,Media & Entertainment,Bronze,2021-12-12,Kerala,Kochi,Pending,Low,AM002,>1Cr,TRUE,,2021-12-12 00:00:00
+MER00167,LeapEdu Platform690,Media & Entertainment,Bronze,2023-02-25,Telangana,Hyderabad,Verified,Medium,AM010,1L-10L,TRUE,,2023-02-25 00:00:00
+MER00168,PlayStream Media594,Retail,Bronze,2022-12-03,Delhi,New Delhi,Verified,Low,AM014,1L-10L,TRUE,,2022-12-03 00:00:00
+MER00169,JetTravel Pvt Ltd448,FMCG,Gold,2023-06-02,Haryana,Hisar,Verified,Low,AM018,<1L,TRUE,,2023-06-02 00:00:00
+MER00170,QuickMart Retail577,E-Commerce,Gold,2021-09-11,Karnataka,Hubli,Rejected,High,AM014,<1L,TRUE,,2021-09-11 00:00:00
+MER00171,QuickFix Services263,Logistics,Silver,2022-08-15,Andhra Pradesh,Vijayawada,Verified,Medium,AM016,10L-1Cr,TRUE,,2022-08-15 00:00:00
+MER00172,GrocerFast App123,Logistics,Bronze,2022-06-02,Karnataka,Mysuru,Verified,Low,AM010,1L-10L,TRUE,,2022-06-02 00:00:00
+MER00173,AgroLink Farms963,EdTech,Bronze,2021-10-20,Punjab,Patiala,Verified,Low,AM012,10L-1Cr,TRUE,,2021-10-20 00:00:00
+MER00174,EduPath Learning146,Insurance,Platinum,2022-07-30,Rajasthan,Udaipur,Verified,Medium,AM018,<1L,TRUE,,2022-07-30 00:00:00
+MER00175,TechNation Cloud796,FMCG,Gold,2021-04-10,Haryana,Ambala,Verified,Low,AM017,1L-10L,TRUE,,2021-04-10 00:00:00
+MER00176,LearnNow EdTech146,Insurance,Gold,2021-12-08,Maharashtra,Thane,Verified,High,AM005,1L-10L,TRUE,,2021-12-08 00:00:00
+MER00177,TechNation Cloud426,SaaS,Silver,2022-09-24,Tamil Nadu,Madurai,Verified,Medium,AM016,10L-1Cr,TRUE,,2022-09-24 00:00:00
+MER00178,PlayStream Media586,Travel,Platinum,2021-12-06,Andhra Pradesh,Guntur,Verified,Medium,AM001,1L-10L,TRUE,,2021-12-06 00:00:00
+MER00179,SafeShield Insurance771,E-Commerce,Bronze,2022-08-16,Madhya Pradesh,Gwalior,Verified,Medium,AM020,10L-1Cr,TRUE,,2022-08-16 00:00:00
+MER00180,HealthFirst Clinics251,EdTech,Bronze,2021-02-02,Andhra Pradesh,Vijayawada,Verified,Low,AM005,1L-10L,TRUE,,2021-02-02 00:00:00
+MER00181,JetTravel Pvt Ltd520,E-Commerce,Bronze,2022-04-28,Uttar Pradesh,Kanpur,Verified,Medium,AM016,1L-10L,TRUE,,2022-04-28 00:00:00
+MER00182,ByteCart Technologies277,SaaS,Bronze,2021-12-17,West Bengal,Siliguri,Verified,Low,AM018,<1L,TRUE,,2021-12-17 00:00:00
+MER00183,PlayStream Media889,FMCG,Bronze,2022-12-08,Telangana,Nizamabad,Verified,High,AM009,<1L,TRUE,,2022-12-08 00:00:00
+MER00184,FinSecure Broking792,HealthTech,Silver,2022-02-09,Uttar Pradesh,Agra,Verified,Critical,AM003,1L-10L,TRUE,,2022-02-09 00:00:00
+MER00185,DataDrive Analytics771,Insurance,Bronze,2021-08-08,Telangana,Karimnagar,Pending,Medium,AM005,<1L,TRUE,,2021-08-08 00:00:00
+MER00186,StreamZone OTT700,Logistics,Gold,2022-11-17,Delhi,Dwarka,Verified,Low,AM016,<1L,TRUE,,2022-11-17 00:00:00
+MER00187,LeapEdu Platform240,Retail,Bronze,2021-06-11,Maharashtra,Thane,Verified,Medium,AM010,1L-10L,TRUE,,2021-06-11 00:00:00
+MER00188,PharmaEase Health160,Insurance,Bronze,2022-10-30,Bihar,Patna,Pending,Low,AM006,>1Cr,TRUE,,2022-10-30 00:00:00
+MER00189,LearnNow EdTech956,SaaS,Bronze,2021-07-10,Rajasthan,Jaipur,Verified,Medium,AM004,>1Cr,TRUE,,2021-07-10 00:00:00
+MER00190,ByteCart Technologies391,HealthTech,Bronze,2022-07-11,West Bengal,Siliguri,Verified,High,AM011,<1L,TRUE,,2022-07-11 00:00:00
+MER00191,DataDrive Analytics763,SaaS,Bronze,2021-01-15,Telangana,Warangal,Verified,High,AM013,10L-1Cr,TRUE,,2021-01-15 00:00:00
+MER00192,SkyFly Travels435,HealthTech,Silver,2021-04-08,Karnataka,Mangaluru,Verified,Low,AM009,1L-10L,TRUE,,2021-04-08 00:00:00
+MER00193,DataDrive Analytics871,Media & Entertainment,Bronze,2021-11-06,Telangana,Hyderabad,Verified,Low,AM008,<1L,TRUE,,2021-11-06 00:00:00
+MER00194,SwiftLog Solutions576,SaaS,Gold,2022-12-04,Telangana,Hyderabad,Verified,High,AM012,1L-10L,TRUE,,2022-12-04 00:00:00
+MER00195,QuickMart Retail236,FMCG,Gold,2023-02-05,West Bengal,Siliguri,Verified,High,AM018,10L-1Cr,TRUE,,2023-02-05 00:00:00
+MER00196,MegaMall Retail323,EdTech,Gold,2023-02-12,Madhya Pradesh,Gwalior,Verified,Low,AM019,<1L,TRUE,,2023-02-12 00:00:00
+MER00197,MegaMall Retail660,HealthTech,Silver,2022-08-10,Bihar,Muzaffarpur,Pending,Low,AM007,10L-1Cr,TRUE,,2022-08-10 00:00:00
+MER00198,GrocerFast App193,Insurance,Silver,2023-04-09,Bihar,Bhagalpur,Verified,Low,AM015,10L-1Cr,FALSE,2023-10-21,2023-04-09 00:00:00
+MER00199,PlayStream Media840,Media & Entertainment,Silver,2023-04-17,Maharashtra,Mumbai,Verified,Low,AM003,1L-10L,FALSE,2024-01-25,2023-04-17 00:00:00
+MER00200,LearnNow EdTech170,HealthTech,Silver,2021-10-21,Bihar,Bhagalpur,Verified,High,AM015,10L-1Cr,TRUE,,2021-10-21 00:00:00
+MER00201,PrintPro Design486,HealthTech,Gold,2022-11-09,Rajasthan,Udaipur,Verified,Critical,AM013,1L-10L,TRUE,,2022-11-09 00:00:00
+MER00202,StreamZone OTT328,Retail,Platinum,2021-01-24,Andhra Pradesh,Nellore,Verified,High,AM008,1L-10L,TRUE,,2021-01-24 00:00:00
+MER00203,CloudSuite SaaS382,E-Commerce,Bronze,2023-01-13,Delhi,Noida,Verified,High,AM001,<1L,TRUE,,2023-01-13 00:00:00
+MER00204,MediQuick Health203,E-Commerce,Platinum,2022-09-05,Haryana,Faridabad,Verified,Low,AM008,1L-10L,TRUE,,2022-09-05 00:00:00
+MER00205,LeapEdu Platform984,Logistics,Platinum,2022-05-31,Madhya Pradesh,Jabalpur,Verified,Medium,AM011,<1L,TRUE,,2022-05-31 00:00:00
+MER00206,AgroLink Farms246,E-Commerce,Silver,2022-02-28,Punjab,Ludhiana,Verified,Low,AM016,<1L,TRUE,,2022-02-28 00:00:00
+MER00207,EduPath Learning758,Travel,Silver,2022-06-22,Punjab,Patiala,Verified,Low,AM018,1L-10L,TRUE,,2022-06-22 00:00:00
+MER00208,QuickFix Services330,E-Commerce,Bronze,2021-05-28,Telangana,Nizamabad,Rejected,Medium,AM005,1L-10L,TRUE,,2021-05-28 00:00:00
+MER00209,SafeShield Insurance308,EdTech,Bronze,2022-04-06,Gujarat,Surat,Verified,Low,AM020,1L-10L,TRUE,,2022-04-06 00:00:00
+MER00210,QuickFix Services174,Insurance,Bronze,2022-08-25,Delhi,Dwarka,Verified,High,AM011,1L-10L,TRUE,,2022-08-25 00:00:00
+MER00211,PrintPro Design115,Retail,Bronze,2023-01-30,Delhi,Dwarka,Verified,Medium,AM013,>1Cr,TRUE,,2023-01-30 00:00:00
+MER00212,StyleHub Fashion429,FMCG,Silver,2022-04-23,Madhya Pradesh,Jabalpur,Verified,Medium,AM016,1L-10L,TRUE,,2022-04-23 00:00:00
+MER00213,DevOps360 SaaS839,FMCG,Bronze,2021-11-24,West Bengal,Durgapur,Verified,Medium,AM008,10L-1Cr,TRUE,,2021-11-24 00:00:00
+MER00214,ShopKart India367,SaaS,Bronze,2022-08-17,Uttar Pradesh,Kanpur,Verified,Low,AM019,10L-1Cr,TRUE,,2022-08-17 00:00:00
+MER00215,GrocerFast App663,Retail,Bronze,2021-12-12,Punjab,Patiala,Verified,Medium,AM012,<1L,TRUE,,2021-12-12 00:00:00
+MER00216,StreamZone OTT659,E-Commerce,Gold,2022-07-10,West Bengal,Kolkata,Pending,Low,AM002,10L-1Cr,TRUE,,2022-07-10 00:00:00
+MER00217,CargoExpress Logistics240,E-Commerce,Bronze,2021-03-11,Andhra Pradesh,Vijayawada,Verified,Low,AM020,1L-10L,TRUE,,2021-03-11 00:00:00
+MER00218,PrintPro Design731,Insurance,Silver,2022-05-15,Bihar,Bhagalpur,Verified,Medium,AM009,1L-10L,FALSE,2024-01-09,2022-05-15 00:00:00
+MER00219,PlayStream Media117,HealthTech,Bronze,2022-11-22,Uttar Pradesh,Lucknow,Pending,Medium,AM008,<1L,TRUE,,2022-11-22 00:00:00
+MER00220,SkyFly Travels358,FMCG,Silver,2023-03-26,Andhra Pradesh,Nellore,Verified,Low,AM008,<1L,TRUE,,2023-03-26 00:00:00
+MER00221,MegaMall Retail968,E-Commerce,Bronze,2023-05-29,Karnataka,Bengaluru,Verified,Low,AM016,<1L,TRUE,,2023-05-29 00:00:00
+MER00222,ShopKart India819,FMCG,Gold,2023-05-16,Tamil Nadu,Chennai,Pending,High,AM008,<1L,TRUE,,2023-05-16 00:00:00
+MER00223,QuickFix Services808,SaaS,Silver,2021-10-05,Bihar,Patna,Verified,High,AM001,>1Cr,FALSE,2022-02-18,2021-10-05 00:00:00
+MER00224,FinSecure Broking247,EdTech,Bronze,2023-04-21,Madhya Pradesh,Jabalpur,Verified,Low,AM013,10L-1Cr,TRUE,,2023-04-21 00:00:00
+MER00225,StyleHub Fashion439,EdTech,Bronze,2021-05-24,Rajasthan,Udaipur,Verified,Low,AM003,1L-10L,TRUE,,2021-05-24 00:00:00
+MER00226,LeapEdu Platform728,SaaS,Silver,2023-03-04,Haryana,Hisar,Verified,Low,AM013,1L-10L,TRUE,,2023-03-04 00:00:00
+MER00227,RapidShip Courier699,Logistics,Silver,2023-03-02,Punjab,Amritsar,Verified,Low,AM005,10L-1Cr,TRUE,,2023-03-02 00:00:00
+MER00228,ByteCart Technologies469,SaaS,Gold,2021-11-12,Karnataka,Bengaluru,Verified,Low,AM015,1L-10L,TRUE,,2021-11-12 00:00:00
+MER00229,SkyFly Travels517,Media & Entertainment,Platinum,2021-12-29,Karnataka,Hubli,Pending,Low,AM014,1L-10L,TRUE,,2021-12-29 00:00:00
+MER00230,MediQuick Health842,HealthTech,Silver,2021-09-06,Bihar,Bhagalpur,Verified,Low,AM009,1L-10L,TRUE,,2021-09-06 00:00:00
+MER00231,MediQuick Health271,EdTech,Gold,2021-11-03,Rajasthan,Udaipur,Verified,Low,AM016,1L-10L,TRUE,,2021-11-03 00:00:00
+MER00232,JetTravel Pvt Ltd568,FMCG,Gold,2021-01-07,Karnataka,Mangaluru,Verified,Low,AM011,1L-10L,TRUE,,2021-01-07 00:00:00
+MER00233,MegaMall Retail980,Media & Entertainment,Bronze,2021-05-20,Punjab,Ludhiana,Verified,Low,AM013,>1Cr,TRUE,,2021-05-20 00:00:00
+MER00234,PlayStream Media852,FMCG,Bronze,2022-08-13,Kerala,Thrissur,Verified,Medium,AM012,<1L,TRUE,,2022-08-13 00:00:00
+MER00235,FinSecure Broking304,Insurance,Bronze,2021-07-04,Haryana,Gurugram,Rejected,Low,AM007,1L-10L,TRUE,,2021-07-04 00:00:00
+MER00236,PlayStream Media951,Travel,Platinum,2023-05-19,Kerala,Thrissur,Verified,Low,AM009,10L-1Cr,TRUE,,2023-05-19 00:00:00
+MER00237,GreenMart Organic533,Retail,Silver,2022-04-05,Madhya Pradesh,Gwalior,Verified,High,AM014,1L-10L,TRUE,,2022-04-05 00:00:00
+MER00238,DevOps360 SaaS468,EdTech,Bronze,2022-07-04,Kerala,Kochi,Verified,Medium,AM012,<1L,TRUE,,2022-07-04 00:00:00
+MER00239,TechNation Cloud145,FMCG,Bronze,2022-11-25,Haryana,Hisar,Verified,Low,AM008,1L-10L,TRUE,,2022-11-25 00:00:00
+MER00240,SkyFly Travels671,Travel,Bronze,2021-08-15,Haryana,Hisar,Verified,Medium,AM017,<1L,TRUE,,2021-08-15 00:00:00
+MER00241,ShopKart India594,HealthTech,Silver,2021-03-29,Karnataka,Hubli,Verified,Low,AM007,1L-10L,TRUE,,2021-03-29 00:00:00
+MER00242,EduPath Learning587,EdTech,Silver,2022-12-15,Karnataka,Hubli,Verified,Medium,AM001,10L-1Cr,TRUE,,2022-12-15 00:00:00
+MER00243,PharmaEase Health211,HealthTech,Bronze,2023-01-29,Punjab,Ludhiana,Verified,Low,AM015,<1L,TRUE,,2023-01-29 00:00:00
+MER00244,HealthFirst Clinics744,E-Commerce,Gold,2022-11-05,Tamil Nadu,Coimbatore,Verified,Low,AM001,10L-1Cr,TRUE,,2022-11-05 00:00:00
+MER00245,JetTravel Pvt Ltd385,Insurance,Bronze,2023-03-27,Madhya Pradesh,Indore,Verified,Low,AM004,<1L,FALSE,2023-09-07,2023-03-27 00:00:00
+MER00246,QuickFix Services601,Media & Entertainment,Bronze,2021-11-17,Uttar Pradesh,Varanasi,Verified,Low,AM015,1L-10L,TRUE,,2021-11-17 00:00:00
+MER00247,MegaMall Retail789,HealthTech,Bronze,2022-09-22,Kerala,Kozhikode,Verified,Low,AM006,1L-10L,TRUE,,2022-09-22 00:00:00
+MER00248,CloudSuite SaaS623,Travel,Silver,2021-05-22,Rajasthan,Jodhpur,Verified,Medium,AM006,1L-10L,TRUE,,2021-05-22 00:00:00
+MER00249,GrocerFast App395,E-Commerce,Gold,2023-05-13,Tamil Nadu,Madurai,Rejected,Low,AM007,10L-1Cr,TRUE,,2023-05-13 00:00:00
+MER00250,StyleHub Fashion617,Retail,Silver,2022-12-03,Punjab,Patiala,Verified,Medium,AM008,<1L,TRUE,,2022-12-03 00:00:00
+MER00251,SafeShield Insurance330,Retail,Silver,2023-03-11,Uttar Pradesh,Lucknow,Verified,Low,AM018,10L-1Cr,TRUE,,2023-03-11 00:00:00
+MER00252,EduPath Learning655,Insurance,Bronze,2023-02-18,Andhra Pradesh,Vijayawada,Rejected,Low,AM008,<1L,TRUE,,2023-02-18 00:00:00
+MER00253,LearnNow EdTech560,EdTech,Silver,2023-04-17,Telangana,Warangal,Verified,Medium,AM012,10L-1Cr,TRUE,,2023-04-17 00:00:00
+MER00254,TechNation Cloud747,Logistics,Gold,2021-05-23,Rajasthan,Jaipur,Verified,Medium,AM020,1L-10L,TRUE,,2021-05-23 00:00:00
+MER00255,ByteCart Technologies820,Insurance,Silver,2021-10-01,Telangana,Hyderabad,Verified,Medium,AM014,>1Cr,TRUE,,2021-10-01 00:00:00
+MER00256,SafeShield Insurance987,HealthTech,Gold,2023-06-06,Punjab,Jalandhar,Pending,Medium,AM013,1L-10L,TRUE,,2023-06-06 00:00:00
+MER00257,FinSecure Broking747,EdTech,Silver,2022-01-20,Telangana,Nizamabad,Verified,Low,AM012,1L-10L,TRUE,,2022-01-20 00:00:00
+MER00258,GrocerFast App435,EdTech,Platinum,2023-03-04,Haryana,Hisar,Verified,Medium,AM003,10L-1Cr,TRUE,,2023-03-04 00:00:00
+MER00259,HealthFirst Clinics323,SaaS,Bronze,2022-05-22,Rajasthan,Udaipur,Verified,Low,AM016,10L-1Cr,TRUE,,2022-05-22 00:00:00
+MER00260,AgroLink Farms798,Retail,Platinum,2021-04-12,Madhya Pradesh,Bhopal,Verified,High,AM015,1L-10L,TRUE,,2021-04-12 00:00:00
+MER00261,CargoExpress Logistics307,SaaS,Bronze,2022-10-28,Kerala,Kochi,Verified,Low,AM012,10L-1Cr,TRUE,,2022-10-28 00:00:00
+MER00262,PharmaEase Health269,Logistics,Silver,2021-11-09,Maharashtra,Thane,Verified,Medium,AM001,<1L,TRUE,,2021-11-09 00:00:00
+MER00263,MediQuick Health235,E-Commerce,Gold,2022-11-28,Haryana,Ambala,Verified,Critical,AM014,10L-1Cr,TRUE,,2022-11-28 00:00:00
+MER00264,GrocerFast App172,EdTech,Silver,2023-01-19,Delhi,Rohini,Verified,Low,AM013,10L-1Cr,TRUE,,2023-01-19 00:00:00
+MER00265,LeapEdu Platform995,Insurance,Bronze,2022-11-25,Tamil Nadu,Chennai,Verified,Low,AM012,10L-1Cr,TRUE,,2022-11-25 00:00:00
+MER00266,PharmaEase Health866,Logistics,Bronze,2022-09-23,Tamil Nadu,Chennai,Pending,Low,AM004,1L-10L,TRUE,,2022-09-23 00:00:00
+MER00267,HealthFirst Clinics459,EdTech,Silver,2021-05-24,Rajasthan,Jodhpur,Verified,Medium,AM020,<1L,TRUE,,2021-05-24 00:00:00
+MER00268,GreenMart Organic127,Insurance,Bronze,2023-06-16,Andhra Pradesh,Vijayawada,Verified,Low,AM002,10L-1Cr,TRUE,,2023-06-16 00:00:00
+MER00269,DevOps360 SaaS345,Media & Entertainment,Silver,2021-09-04,West Bengal,Kolkata,Verified,Critical,AM012,>1Cr,TRUE,,2021-09-04 00:00:00
+MER00270,CloudSuite SaaS496,HealthTech,Bronze,2022-03-07,Andhra Pradesh,Nellore,Rejected,Medium,AM001,1L-10L,TRUE,,2022-03-07 00:00:00
+MER00271,ShopKart India368,Travel,Platinum,2021-03-03,Delhi,Rohini,Verified,Medium,AM014,1L-10L,TRUE,,2021-03-03 00:00:00
+MER00272,HealthFirst Clinics184,EdTech,Silver,2022-09-23,Punjab,Jalandhar,Verified,High,AM005,1L-10L,TRUE,,2022-09-23 00:00:00
+MER00273,HealthFirst Clinics700,EdTech,Bronze,2022-10-28,Punjab,Jalandhar,Verified,Medium,AM008,<1L,TRUE,,2022-10-28 00:00:00
+MER00274,MediQuick Health544,EdTech,Silver,2022-09-16,Karnataka,Bengaluru,Verified,Medium,AM006,1L-10L,FALSE,2023-05-13,2022-09-16 00:00:00
+MER00275,EduPath Learning635,FMCG,Bronze,2023-01-09,Uttar Pradesh,Kanpur,Verified,High,AM004,10L-1Cr,TRUE,,2023-01-09 00:00:00
+MER00276,ShopKart India443,EdTech,Silver,2022-06-21,Madhya Pradesh,Gwalior,Verified,Low,AM016,10L-1Cr,FALSE,2024-04-01,2022-06-21 00:00:00
+MER00277,FreshDeal FMCG476,EdTech,Gold,2021-04-16,Tamil Nadu,Coimbatore,Verified,Low,AM001,<1L,TRUE,,2021-04-16 00:00:00
+MER00278,GrocerFast App472,E-Commerce,Bronze,2021-07-03,Rajasthan,Kota,Verified,Low,AM011,<1L,TRUE,,2021-07-03 00:00:00
+MER00279,MediQuick Health685,HealthTech,Gold,2022-11-21,Gujarat,Surat,Verified,Critical,AM013,<1L,TRUE,,2022-11-21 00:00:00
+MER00280,DataDrive Analytics986,Insurance,Bronze,2021-11-15,Telangana,Nizamabad,Verified,Low,AM019,10L-1Cr,TRUE,,2021-11-15 00:00:00
+MER00281,StreamZone OTT737,Logistics,Silver,2022-08-29,Delhi,Dwarka,Verified,High,AM001,<1L,TRUE,,2022-08-29 00:00:00
+MER00282,EduPath Learning751,E-Commerce,Bronze,2021-01-10,Andhra Pradesh,Nellore,Pending,Medium,AM004,<1L,TRUE,,2021-01-10 00:00:00
+MER00283,QuickMart Retail529,EdTech,Bronze,2021-05-26,West Bengal,Kolkata,Pending,High,AM017,1L-10L,TRUE,,2021-05-26 00:00:00
+MER00284,AgroLink Farms481,Insurance,Bronze,2021-03-28,West Bengal,Howrah,Verified,Low,AM019,1L-10L,TRUE,,2021-03-28 00:00:00
+MER00285,CargoExpress Logistics778,Travel,Gold,2021-09-25,Tamil Nadu,Madurai,Verified,Low,AM003,>1Cr,TRUE,,2021-09-25 00:00:00
+MER00286,CloudSuite SaaS898,Retail,Silver,2021-06-09,Madhya Pradesh,Gwalior,Verified,Low,AM012,>1Cr,TRUE,,2021-06-09 00:00:00
+MER00287,JetTravel Pvt Ltd562,HealthTech,Silver,2023-05-23,Telangana,Karimnagar,Pending,Medium,AM002,<1L,TRUE,,2023-05-23 00:00:00
+MER00288,QuickFix Services435,Travel,Gold,2021-09-12,Tamil Nadu,Chennai,Verified,Low,AM006,<1L,TRUE,,2021-09-12 00:00:00
+MER00289,HealthFirst Clinics975,Retail,Silver,2022-07-18,West Bengal,Kolkata,Verified,Low,AM001,<1L,TRUE,,2022-07-18 00:00:00
+MER00290,LeapEdu Platform327,EdTech,Gold,2022-02-15,Tamil Nadu,Madurai,Pending,Low,AM003,<1L,TRUE,,2022-02-15 00:00:00
+MER00291,PharmaEase Health554,FMCG,Gold,2023-05-18,Madhya Pradesh,Bhopal,Verified,Low,AM006,>1Cr,TRUE,,2023-05-18 00:00:00
+MER00292,CargoExpress Logistics941,Travel,Silver,2021-01-31,Kerala,Thiruvananthapuram,Verified,High,AM009,<1L,TRUE,,2021-01-31 00:00:00
+MER00293,AgroLink Farms252,SaaS,Silver,2022-09-24,Maharashtra,Thane,Verified,Medium,AM002,<1L,TRUE,,2022-09-24 00:00:00
+MER00294,HealthFirst Clinics240,Insurance,Gold,2023-03-28,Rajasthan,Jaipur,Rejected,Medium,AM012,1L-10L,TRUE,,2023-03-28 00:00:00
+MER00295,DevOps360 SaaS596,SaaS,Bronze,2022-05-30,Gujarat,Surat,Verified,Medium,AM001,10L-1Cr,TRUE,,2022-05-30 00:00:00
+MER00296,LeapEdu Platform387,Media & Entertainment,Bronze,2022-04-29,Maharashtra,Pune,Rejected,Low,AM008,<1L,TRUE,,2022-04-29 00:00:00
+MER00297,MegaMall Retail910,Logistics,Bronze,2023-02-22,Bihar,Bhagalpur,Verified,High,AM006,<1L,TRUE,,2023-02-22 00:00:00
+MER00298,FinSecure Broking425,E-Commerce,Bronze,2022-01-03,Madhya Pradesh,Jabalpur,Rejected,Medium,AM019,>1Cr,TRUE,,2022-01-03 00:00:00
+MER00299,MegaMall Retail929,Retail,Bronze,2022-07-10,Bihar,Patna,Verified,Low,AM008,<1L,TRUE,,2022-07-10 00:00:00
+MER00300,GrocerFast App100,FMCG,Bronze,2021-07-26,Gujarat,Surat,Pending,High,AM011,<1L,TRUE,,2021-07-26 00:00:00
+MER00301,CloudSuite SaaS700,Insurance,Bronze,2023-03-04,Kerala,Kozhikode,Rejected,Low,AM013,1L-10L,TRUE,,2023-03-04 00:00:00
+MER00302,ByteCart Technologies409,Travel,Gold,2021-06-11,Gujarat,Rajkot,Verified,Low,AM018,10L-1Cr,TRUE,,2021-06-11 00:00:00
+MER00303,PrintPro Design728,HealthTech,Silver,2022-11-13,Madhya Pradesh,Gwalior,Verified,Medium,AM005,<1L,TRUE,,2022-11-13 00:00:00
+MER00304,ShopKart India818,E-Commerce,Silver,2023-03-01,Haryana,Faridabad,Verified,High,AM020,<1L,TRUE,,2023-03-01 00:00:00
+MER00305,FinSecure Broking206,Logistics,Silver,2021-12-06,Bihar,Muzaffarpur,Rejected,Low,AM003,10L-1Cr,TRUE,,2021-12-06 00:00:00
+MER00306,RapidShip Courier754,Logistics,Bronze,2022-04-03,Kerala,Kochi,Verified,Medium,AM001,<1L,FALSE,2023-01-02,2022-04-03 00:00:00
+MER00307,DataDrive Analytics850,Travel,Bronze,2022-02-28,Rajasthan,Udaipur,Verified,Low,AM016,10L-1Cr,TRUE,,2022-02-28 00:00:00
+MER00308,FinSecure Broking766,E-Commerce,Bronze,2021-06-16,Madhya Pradesh,Jabalpur,Verified,Low,AM004,<1L,TRUE,,2021-06-16 00:00:00
+MER00309,FreshDeal FMCG484,EdTech,Bronze,2022-07-15,Tamil Nadu,Madurai,Verified,Medium,AM016,10L-1Cr,TRUE,,2022-07-15 00:00:00
+MER00310,CargoExpress Logistics769,EdTech,Silver,2022-03-21,Tamil Nadu,Madurai,Verified,Low,AM018,10L-1Cr,TRUE,,2022-03-21 00:00:00
+MER00311,StreamZone OTT653,E-Commerce,Bronze,2021-11-01,Telangana,Nizamabad,Verified,High,AM005,<1L,TRUE,,2021-11-01 00:00:00
+MER00312,ShopKart India537,Retail,Silver,2022-11-09,Karnataka,Mysuru,Verified,Low,AM010,>1Cr,TRUE,,2022-11-09 00:00:00
+MER00313,GrocerFast App964,SaaS,Silver,2022-02-12,Karnataka,Bengaluru,Verified,Low,AM012,10L-1Cr,TRUE,,2022-02-12 00:00:00
+MER00314,EduPath Learning291,Logistics,Platinum,2022-03-27,West Bengal,Durgapur,Verified,Low,AM004,<1L,TRUE,,2022-03-27 00:00:00
+MER00315,EduPath Learning927,Insurance,Silver,2023-02-14,Uttar Pradesh,Lucknow,Pending,High,AM014,>1Cr,TRUE,,2023-02-14 00:00:00
+MER00316,RapidShip Courier987,EdTech,Silver,2021-08-30,Bihar,Bhagalpur,Pending,Medium,AM017,1L-10L,TRUE,,2021-08-30 00:00:00
+MER00317,SkyFly Travels919,Retail,Bronze,2022-09-28,Haryana,Faridabad,Rejected,Low,AM007,10L-1Cr,TRUE,,2022-09-28 00:00:00
+MER00318,CloudSuite SaaS143,HealthTech,Platinum,2022-12-01,Rajasthan,Udaipur,Verified,Medium,AM003,<1L,TRUE,,2022-12-01 00:00:00
+MER00319,StyleHub Fashion506,E-Commerce,Silver,2021-10-10,Uttar Pradesh,Varanasi,Verified,Low,AM019,1L-10L,TRUE,,2021-10-10 00:00:00
+MER00320,LeapEdu Platform202,SaaS,Gold,2023-03-10,Bihar,Muzaffarpur,Pending,Low,AM016,1L-10L,TRUE,,2023-03-10 00:00:00
+MER00321,GrocerFast App138,Travel,Gold,2021-05-28,Tamil Nadu,Chennai,Verified,High,AM008,<1L,TRUE,,2021-05-28 00:00:00
+MER00322,GrocerFast App375,SaaS,Silver,2021-12-12,Bihar,Muzaffarpur,Verified,Low,AM004,>1Cr,TRUE,,2021-12-12 00:00:00
+MER00323,QuickMart Retail237,FMCG,Bronze,2022-03-30,Telangana,Karimnagar,Verified,Medium,AM003,<1L,TRUE,,2022-03-30 00:00:00
+MER00324,JetTravel Pvt Ltd943,FMCG,Bronze,2023-02-17,Rajasthan,Jaipur,Verified,Low,AM010,10L-1Cr,TRUE,,2023-02-17 00:00:00
+MER00325,HealthFirst Clinics238,HealthTech,Bronze,2023-06-20,Madhya Pradesh,Indore,Pending,Low,AM002,<1L,TRUE,,2023-06-20 00:00:00
+MER00326,DataDrive Analytics151,Retail,Silver,2021-07-23,Bihar,Bhagalpur,Verified,Low,AM001,<1L,TRUE,,2021-07-23 00:00:00
+MER00327,GrocerFast App708,Insurance,Gold,2023-06-11,West Bengal,Durgapur,Verified,High,AM009,10L-1Cr,TRUE,,2023-06-11 00:00:00
+MER00328,GreenMart Organic192,Media & Entertainment,Platinum,2021-02-20,Telangana,Warangal,Pending,Medium,AM007,<1L,TRUE,,2021-02-20 00:00:00
+MER00329,CargoExpress Logistics625,Retail,Bronze,2023-02-25,Maharashtra,Pune,Verified,Medium,AM001,<1L,TRUE,,2023-02-25 00:00:00
+MER00330,TechNation Cloud924,Travel,Bronze,2022-12-28,Telangana,Nizamabad,Pending,Low,AM007,1L-10L,TRUE,,2022-12-28 00:00:00
+MER00331,RapidShip Courier633,Insurance,Silver,2022-08-22,Andhra Pradesh,Guntur,Verified,Medium,AM010,<1L,TRUE,,2022-08-22 00:00:00
+MER00332,SwiftLog Solutions593,SaaS,Silver,2021-10-11,Karnataka,Hubli,Verified,Critical,AM010,<1L,TRUE,,2021-10-11 00:00:00
+MER00333,SkyFly Travels883,Media & Entertainment,Bronze,2023-04-05,Delhi,Noida,Verified,Medium,AM001,10L-1Cr,TRUE,,2023-04-05 00:00:00
+MER00334,PlayStream Media365,Media & Entertainment,Silver,2022-02-02,Bihar,Gaya,Verified,Medium,AM018,1L-10L,TRUE,,2022-02-02 00:00:00
+MER00335,GrocerFast App787,Insurance,Silver,2023-05-16,Gujarat,Surat,Verified,Low,AM009,10L-1Cr,TRUE,,2023-05-16 00:00:00
+MER00336,StyleHub Fashion881,EdTech,Gold,2022-11-28,Bihar,Gaya,Verified,Medium,AM010,1L-10L,TRUE,,2022-11-28 00:00:00
+MER00337,AgroLink Farms439,EdTech,Gold,2021-10-29,Gujarat,Rajkot,Verified,Medium,AM019,>1Cr,TRUE,,2021-10-29 00:00:00
+MER00338,MediQuick Health583,Travel,Gold,2021-05-03,Bihar,Muzaffarpur,Verified,High,AM005,<1L,TRUE,,2021-05-03 00:00:00
+MER00339,JetTravel Pvt Ltd450,HealthTech,Bronze,2022-04-14,Rajasthan,Jaipur,Verified,Medium,AM006,1L-10L,TRUE,,2022-04-14 00:00:00
+MER00340,LearnNow EdTech104,Media & Entertainment,Gold,2023-02-19,West Bengal,Howrah,Verified,Medium,AM003,<1L,TRUE,,2023-02-19 00:00:00
+MER00341,CargoExpress Logistics748,E-Commerce,Silver,2022-05-04,Rajasthan,Jodhpur,Verified,Critical,AM011,10L-1Cr,TRUE,,2022-05-04 00:00:00
+MER00342,SkyFly Travels295,Logistics,Bronze,2022-10-04,Maharashtra,Nagpur,Verified,Low,AM017,1L-10L,TRUE,,2022-10-04 00:00:00
+MER00343,FreshDeal FMCG166,Insurance,Platinum,2021-10-25,Andhra Pradesh,Guntur,Verified,Medium,AM005,1L-10L,TRUE,,2021-10-25 00:00:00
+MER00344,AgroLink Farms601,Travel,Bronze,2021-06-18,Gujarat,Ahmedabad,Verified,Medium,AM005,<1L,TRUE,,2021-06-18 00:00:00
+MER00345,ShopKart India703,E-Commerce,Gold,2022-01-11,Uttar Pradesh,Varanasi,Pending,Low,AM018,1L-10L,TRUE,,2022-01-11 00:00:00
+MER00346,TechNation Cloud149,Travel,Gold,2023-05-07,Punjab,Patiala,Verified,Medium,AM016,10L-1Cr,FALSE,2023-11-01,2023-05-07 00:00:00
+MER00347,JetTravel Pvt Ltd811,EdTech,Bronze,2021-11-05,Punjab,Jalandhar,Verified,Medium,AM014,10L-1Cr,TRUE,,2021-11-05 00:00:00
+MER00348,SwiftLog Solutions623,EdTech,Silver,2021-10-17,Kerala,Thrissur,Verified,Low,AM009,10L-1Cr,TRUE,,2021-10-17 00:00:00
+MER00349,JetTravel Pvt Ltd466,Logistics,Silver,2021-06-14,Kerala,Thrissur,Verified,Low,AM003,>1Cr,FALSE,2023-01-03,2021-06-14 00:00:00
+MER00350,MegaMall Retail687,EdTech,Silver,2021-04-03,Punjab,Amritsar,Pending,Medium,AM015,>1Cr,TRUE,,2021-04-03 00:00:00
+MER00351,PlayStream Media370,E-Commerce,Platinum,2023-04-13,West Bengal,Durgapur,Verified,Medium,AM014,10L-1Cr,TRUE,,2023-04-13 00:00:00
+MER00352,SwiftLog Solutions971,HealthTech,Bronze,2021-01-10,Madhya Pradesh,Jabalpur,Verified,Low,AM020,<1L,TRUE,,2021-01-10 00:00:00
+MER00353,StreamZone OTT195,Travel,Bronze,2021-07-07,Gujarat,Rajkot,Verified,Low,AM016,10L-1Cr,TRUE,,2021-07-07 00:00:00
+MER00354,PharmaEase Health916,HealthTech,Gold,2022-12-14,Tamil Nadu,Chennai,Verified,Medium,AM019,10L-1Cr,TRUE,,2022-12-14 00:00:00
+MER00355,FreshDeal FMCG725,Retail,Bronze,2022-09-19,Rajasthan,Kota,Verified,Low,AM002,<1L,FALSE,2023-03-31,2022-09-19 00:00:00
+MER00356,PharmaEase Health421,Media & Entertainment,Bronze,2022-11-26,Maharashtra,Pune,Rejected,Medium,AM011,1L-10L,TRUE,,2022-11-26 00:00:00
+MER00357,GreenMart Organic817,Retail,Gold,2022-11-09,Haryana,Ambala,Verified,Medium,AM005,10L-1Cr,TRUE,,2022-11-09 00:00:00
+MER00358,StyleHub Fashion727,Retail,Platinum,2021-06-10,Maharashtra,Thane,Pending,Low,AM016,1L-10L,TRUE,,2021-06-10 00:00:00
+MER00359,ByteCart Technologies384,Travel,Silver,2022-07-18,Maharashtra,Pune,Verified,Low,AM019,1L-10L,TRUE,,2022-07-18 00:00:00
+MER00360,QuickFix Services610,E-Commerce,Silver,2022-05-25,West Bengal,Kolkata,Verified,Low,AM018,<1L,TRUE,,2022-05-25 00:00:00
+MER00361,MediQuick Health910,Insurance,Bronze,2022-10-15,Haryana,Faridabad,Verified,Low,AM011,1L-10L,TRUE,,2022-10-15 00:00:00
+MER00362,LearnNow EdTech936,Media & Entertainment,Bronze,2021-12-06,Delhi,Noida,Verified,Low,AM015,<1L,TRUE,,2021-12-06 00:00:00
+MER00363,LeapEdu Platform774,SaaS,Platinum,2021-12-30,Delhi,Rohini,Verified,Low,AM006,1L-10L,TRUE,,2021-12-30 00:00:00
+MER00364,MegaMall Retail834,Logistics,Bronze,2021-04-20,Kerala,Thiruvananthapuram,Verified,High,AM007,1L-10L,TRUE,,2021-04-20 00:00:00
+MER00365,DevOps360 SaaS295,Media & Entertainment,Silver,2023-02-15,Kerala,Kochi,Verified,Low,AM019,>1Cr,TRUE,,2023-02-15 00:00:00
+MER00366,CloudSuite SaaS610,Travel,Silver,2021-02-19,Maharashtra,Thane,Pending,Medium,AM006,10L-1Cr,TRUE,,2021-02-19 00:00:00
+MER00367,FreshDeal FMCG848,Media & Entertainment,Gold,2022-02-01,Andhra Pradesh,Guntur,Verified,Low,AM020,>1Cr,TRUE,,2022-02-01 00:00:00
+MER00368,LeapEdu Platform354,Retail,Silver,2021-12-18,Telangana,Warangal,Verified,Medium,AM017,<1L,TRUE,,2021-12-18 00:00:00
+MER00369,GreenMart Organic660,Logistics,Silver,2023-01-25,Andhra Pradesh,Vijayawada,Verified,Medium,AM012,>1Cr,TRUE,,2023-01-25 00:00:00
+MER00370,CloudSuite SaaS827,FMCG,Bronze,2021-07-02,Punjab,Amritsar,Verified,Medium,AM019,1L-10L,TRUE,,2021-07-02 00:00:00
+MER00371,RapidShip Courier827,Travel,Bronze,2023-05-12,Rajasthan,Jaipur,Verified,Low,AM005,<1L,TRUE,,2023-05-12 00:00:00
+MER00372,LearnNow EdTech304,SaaS,Bronze,2021-06-14,Telangana,Warangal,Pending,Medium,AM010,<1L,TRUE,,2021-06-14 00:00:00
+MER00373,StyleHub Fashion133,Insurance,Bronze,2021-04-15,Gujarat,Surat,Verified,Medium,AM008,1L-10L,TRUE,,2021-04-15 00:00:00
+MER00374,DevOps360 SaaS917,Travel,Silver,2022-11-12,Kerala,Thrissur,Rejected,Critical,AM011,>1Cr,FALSE,2024-02-05,2022-11-12 00:00:00
+MER00375,LearnNow EdTech113,Retail,Gold,2022-09-28,Kerala,Thiruvananthapuram,Pending,Medium,AM012,10L-1Cr,TRUE,,2022-09-28 00:00:00
+MER00376,StyleHub Fashion856,SaaS,Gold,2023-01-13,Haryana,Hisar,Verified,Medium,AM006,>1Cr,TRUE,,2023-01-13 00:00:00
+MER00377,StreamZone OTT626,SaaS,Silver,2022-03-15,Karnataka,Mysuru,Verified,High,AM001,1L-10L,TRUE,,2022-03-15 00:00:00
+MER00378,GreenMart Organic258,Media & Entertainment,Gold,2021-11-27,Maharashtra,Nagpur,Verified,Medium,AM012,<1L,TRUE,,2021-11-27 00:00:00
+MER00379,GreenMart Organic425,Insurance,Gold,2021-07-08,Uttar Pradesh,Kanpur,Verified,Medium,AM003,1L-10L,TRUE,,2021-07-08 00:00:00
+MER00380,AgroLink Farms318,Media & Entertainment,Silver,2022-01-05,Punjab,Patiala,Rejected,High,AM001,<1L,TRUE,,2022-01-05 00:00:00
+MER00381,EduPath Learning556,Logistics,Bronze,2022-09-21,Delhi,New Delhi,Verified,Low,AM004,1L-10L,TRUE,,2022-09-21 00:00:00
+MER00382,StyleHub Fashion841,FMCG,Platinum,2022-06-14,Telangana,Nizamabad,Verified,Low,AM007,1L-10L,TRUE,,2022-06-14 00:00:00
+MER00383,MediQuick Health198,E-Commerce,Bronze,2023-03-03,Tamil Nadu,Chennai,Verified,Medium,AM007,10L-1Cr,TRUE,,2023-03-03 00:00:00
+MER00384,CargoExpress Logistics955,Travel,Gold,2023-04-29,Karnataka,Bengaluru,Verified,Low,AM015,10L-1Cr,TRUE,,2023-04-29 00:00:00
+MER00385,LearnNow EdTech189,EdTech,Platinum,2023-03-25,Karnataka,Mysuru,Pending,Low,AM015,1L-10L,TRUE,,2023-03-25 00:00:00
+MER00386,CargoExpress Logistics423,Media & Entertainment,Silver,2021-05-02,Maharashtra,Mumbai,Verified,Medium,AM003,1L-10L,TRUE,,2021-05-02 00:00:00
+MER00387,SkyFly Travels208,SaaS,Bronze,2021-11-05,Telangana,Nizamabad,Verified,High,AM001,1L-10L,TRUE,,2021-11-05 00:00:00
+MER00388,StyleHub Fashion325,Insurance,Bronze,2023-03-27,Tamil Nadu,Madurai,Rejected,Low,AM012,>1Cr,TRUE,,2023-03-27 00:00:00
+MER00389,ShopKart India666,Media & Entertainment,Silver,2021-05-07,Andhra Pradesh,Nellore,Verified,High,AM010,<1L,FALSE,2023-02-12,2021-05-07 00:00:00
+MER00390,StreamZone OTT843,HealthTech,Gold,2022-10-24,Gujarat,Surat,Verified,Medium,AM009,<1L,TRUE,,2022-10-24 00:00:00
+MER00391,FreshDeal FMCG787,Insurance,Silver,2021-02-25,Madhya Pradesh,Gwalior,Verified,Low,AM003,<1L,TRUE,,2021-02-25 00:00:00
+MER00392,JetTravel Pvt Ltd843,Logistics,Silver,2021-12-05,Haryana,Gurugram,Verified,Low,AM007,1L-10L,TRUE,,2021-12-05 00:00:00
+MER00393,DataDrive Analytics436,Media & Entertainment,Bronze,2022-12-12,Haryana,Ambala,Verified,Critical,AM006,<1L,TRUE,,2022-12-12 00:00:00
+MER00394,QuickMart Retail904,FMCG,Bronze,2022-10-19,Delhi,Dwarka,Verified,Low,AM016,1L-10L,TRUE,,2022-10-19 00:00:00
+MER00395,EduPath Learning893,Media & Entertainment,Silver,2021-04-22,Telangana,Hyderabad,Pending,High,AM005,10L-1Cr,TRUE,,2021-04-22 00:00:00
+MER00396,JetTravel Pvt Ltd369,E-Commerce,Bronze,2021-03-20,Kerala,Kochi,Verified,Medium,AM019,<1L,TRUE,,2021-03-20 00:00:00
+MER00397,LearnNow EdTech664,HealthTech,Silver,2022-07-07,Telangana,Karimnagar,Verified,High,AM019,10L-1Cr,TRUE,,2022-07-07 00:00:00
+MER00398,PlayStream Media237,Insurance,Silver,2021-04-03,West Bengal,Kolkata,Verified,High,AM020,10L-1Cr,TRUE,,2021-04-03 00:00:00
+MER00399,LeapEdu Platform626,Media & Entertainment,Silver,2021-07-03,Tamil Nadu,Coimbatore,Verified,Low,AM012,<1L,TRUE,,2021-07-03 00:00:00
+MER00400,LeapEdu Platform599,Logistics,Platinum,2022-01-14,Delhi,Rohini,Verified,High,AM002,<1L,TRUE,,2022-01-14 00:00:00
+MER00401,PharmaEase Health431,SaaS,Bronze,2022-06-18,Karnataka,Hubli,Verified,Medium,AM013,10L-1Cr,TRUE,,2022-06-18 00:00:00
+MER00402,EduPath Learning701,Travel,Bronze,2021-03-21,Punjab,Ludhiana,Verified,Low,AM012,1L-10L,TRUE,,2021-03-21 00:00:00
+MER00403,GrocerFast App718,Logistics,Silver,2021-05-23,Maharashtra,Mumbai,Verified,Low,AM005,<1L,TRUE,,2021-05-23 00:00:00
+MER00404,EduPath Learning716,FMCG,Bronze,2022-11-08,Kerala,Kochi,Verified,Low,AM007,1L-10L,TRUE,,2022-11-08 00:00:00
+MER00405,PharmaEase Health953,Media & Entertainment,Platinum,2021-02-14,Rajasthan,Jodhpur,Verified,Medium,AM019,<1L,TRUE,,2021-02-14 00:00:00
+MER00406,FreshDeal FMCG364,Media & Entertainment,Gold,2022-02-20,Bihar,Patna,Pending,Medium,AM010,>1Cr,TRUE,,2022-02-20 00:00:00
+MER00407,JetTravel Pvt Ltd559,Logistics,Bronze,2023-06-08,Haryana,Hisar,Verified,Medium,AM006,1L-10L,TRUE,,2023-06-08 00:00:00
+MER00408,SkyFly Travels370,Media & Entertainment,Bronze,2021-12-17,Tamil Nadu,Chennai,Verified,Low,AM004,<1L,TRUE,,2021-12-17 00:00:00
+MER00409,SkyFly Travels980,Media & Entertainment,Silver,2022-03-06,Bihar,Patna,Verified,High,AM020,<1L,TRUE,,2022-03-06 00:00:00
+MER00410,DevOps360 SaaS644,HealthTech,Bronze,2021-04-06,Uttar Pradesh,Lucknow,Pending,Medium,AM014,1L-10L,TRUE,,2021-04-06 00:00:00
+MER00411,EduPath Learning995,Retail,Bronze,2022-03-16,Maharashtra,Thane,Verified,High,AM019,<1L,TRUE,,2022-03-16 00:00:00
+MER00412,CloudSuite SaaS360,Media & Entertainment,Bronze,2023-05-30,West Bengal,Siliguri,Verified,Low,AM001,1L-10L,TRUE,,2023-05-30 00:00:00
+MER00413,SwiftLog Solutions632,FMCG,Silver,2021-07-30,Maharashtra,Thane,Verified,Low,AM019,<1L,TRUE,,2021-07-30 00:00:00
+MER00414,QuickFix Services648,Travel,Silver,2022-09-19,Rajasthan,Jodhpur,Verified,Medium,AM016,<1L,TRUE,,2022-09-19 00:00:00
+MER00415,StyleHub Fashion668,Travel,Gold,2021-11-11,West Bengal,Howrah,Pending,Medium,AM008,1L-10L,TRUE,,2021-11-11 00:00:00
+MER00416,GreenMart Organic265,Insurance,Gold,2022-02-15,Karnataka,Bengaluru,Verified,Critical,AM001,10L-1Cr,TRUE,,2022-02-15 00:00:00
+MER00417,MegaMall Retail248,SaaS,Bronze,2022-03-22,West Bengal,Howrah,Verified,Medium,AM013,>1Cr,TRUE,,2022-03-22 00:00:00
+MER00418,HealthFirst Clinics728,E-Commerce,Silver,2022-12-30,Punjab,Ludhiana,Verified,Low,AM007,10L-1Cr,TRUE,,2022-12-30 00:00:00
+MER00419,PrintPro Design923,Insurance,Silver,2021-02-04,Uttar Pradesh,Kanpur,Verified,Medium,AM012,<1L,TRUE,,2021-02-04 00:00:00
+MER00420,ShopKart India261,Travel,Bronze,2023-03-10,Karnataka,Mangaluru,Verified,Medium,AM003,>1Cr,TRUE,,2023-03-10 00:00:00
+MER00421,StyleHub Fashion391,SaaS,Bronze,2022-08-20,Kerala,Thiruvananthapuram,Verified,Low,AM013,1L-10L,TRUE,,2022-08-20 00:00:00
+MER00422,SafeShield Insurance279,FMCG,Silver,2022-07-27,Rajasthan,Jaipur,Verified,Critical,AM018,10L-1Cr,FALSE,2023-07-23,2022-07-27 00:00:00
+MER00423,FinSecure Broking356,Logistics,Silver,2022-01-22,Kerala,Kozhikode,Rejected,Low,AM015,10L-1Cr,TRUE,,2022-01-22 00:00:00
+MER00424,QuickFix Services128,Logistics,Gold,2021-03-11,West Bengal,Howrah,Verified,Low,AM012,1L-10L,TRUE,,2021-03-11 00:00:00
+MER00425,ShopKart India817,FMCG,Gold,2021-10-22,Andhra Pradesh,Visakhapatnam,Verified,Low,AM011,1L-10L,TRUE,,2021-10-22 00:00:00
+MER00426,AgroLink Farms687,Logistics,Gold,2023-02-04,Telangana,Nizamabad,Verified,Low,AM008,10L-1Cr,TRUE,,2023-02-04 00:00:00
+MER00427,JetTravel Pvt Ltd334,HealthTech,Bronze,2023-05-07,Delhi,New Delhi,Verified,Low,AM016,1L-10L,TRUE,,2023-05-07 00:00:00
+MER00428,LeapEdu Platform977,Media & Entertainment,Bronze,2023-05-19,Uttar Pradesh,Agra,Verified,Critical,AM019,10L-1Cr,TRUE,,2023-05-19 00:00:00
+MER00429,GrocerFast App287,Media & Entertainment,Bronze,2021-10-14,Madhya Pradesh,Indore,Verified,Medium,AM016,>1Cr,TRUE,,2021-10-14 00:00:00
+MER00430,LearnNow EdTech614,Retail,Silver,2022-12-04,Gujarat,Ahmedabad,Verified,Low,AM001,<1L,TRUE,,2022-12-04 00:00:00
+MER00431,JetTravel Pvt Ltd488,SaaS,Gold,2022-01-06,Haryana,Faridabad,Verified,Low,AM016,>1Cr,TRUE,,2022-01-06 00:00:00
+MER00432,ByteCart Technologies474,FMCG,Silver,2021-08-04,Tamil Nadu,Madurai,Pending,Low,AM006,1L-10L,TRUE,,2021-08-04 00:00:00
+MER00433,FinSecure Broking802,Logistics,Bronze,2023-01-09,Delhi,Noida,Pending,Low,AM005,1L-10L,TRUE,,2023-01-09 00:00:00
+MER00434,ShopKart India280,Insurance,Silver,2023-05-20,Rajasthan,Udaipur,Verified,Low,AM018,10L-1Cr,TRUE,,2023-05-20 00:00:00
+MER00435,LearnNow EdTech507,SaaS,Bronze,2021-03-03,Karnataka,Mangaluru,Pending,Low,AM011,<1L,TRUE,,2021-03-03 00:00:00
+MER00436,EduPath Learning673,Travel,Bronze,2021-09-21,Uttar Pradesh,Lucknow,Verified,Medium,AM020,<1L,TRUE,,2021-09-21 00:00:00
+MER00437,FinSecure Broking765,FMCG,Silver,2023-03-11,Punjab,Patiala,Verified,Low,AM003,1L-10L,TRUE,,2023-03-11 00:00:00
+MER00438,PlayStream Media574,FMCG,Bronze,2023-06-09,Punjab,Patiala,Verified,Medium,AM003,<1L,TRUE,,2023-06-09 00:00:00
+MER00439,ByteCart Technologies333,Media & Entertainment,Silver,2021-10-26,Gujarat,Rajkot,Verified,Low,AM012,10L-1Cr,TRUE,,2021-10-26 00:00:00
+MER00440,SkyFly Travels561,SaaS,Gold,2023-05-25,Rajasthan,Jaipur,Verified,Low,AM004,<1L,FALSE,2024-03-20,2023-05-25 00:00:00
+MER00441,AgroLink Farms584,EdTech,Platinum,2023-03-01,Uttar Pradesh,Lucknow,Verified,Low,AM013,1L-10L,TRUE,,2023-03-01 00:00:00
+MER00442,QuickMart Retail855,HealthTech,Silver,2021-05-10,Telangana,Hyderabad,Verified,Low,AM011,10L-1Cr,TRUE,,2021-05-10 00:00:00
+MER00443,DataDrive Analytics991,Insurance,Bronze,2022-07-16,Uttar Pradesh,Kanpur,Verified,Low,AM019,1L-10L,TRUE,,2022-07-16 00:00:00
+MER00444,PharmaEase Health754,Logistics,Silver,2021-12-22,Uttar Pradesh,Lucknow,Verified,Low,AM009,<1L,TRUE,,2021-12-22 00:00:00
+MER00445,ShopKart India100,SaaS,Bronze,2023-05-19,Uttar Pradesh,Varanasi,Verified,Medium,AM016,>1Cr,TRUE,,2023-05-19 00:00:00
+MER00446,GrocerFast App406,Logistics,Bronze,2023-03-29,Maharashtra,Mumbai,Verified,Low,AM018,1L-10L,TRUE,,2023-03-29 00:00:00
+MER00447,QuickMart Retail267,Logistics,Bronze,2022-02-04,Kerala,Kozhikode,Verified,Medium,AM017,10L-1Cr,TRUE,,2022-02-04 00:00:00
+MER00448,PrintPro Design727,Insurance,Bronze,2021-10-06,Madhya Pradesh,Jabalpur,Verified,High,AM006,<1L,TRUE,,2021-10-06 00:00:00
+MER00449,SwiftLog Solutions752,Retail,Silver,2021-10-06,West Bengal,Howrah,Verified,Low,AM018,<1L,TRUE,,2021-10-06 00:00:00
+MER00450,SwiftLog Solutions388,Logistics,Gold,2022-03-25,Telangana,Hyderabad,Verified,Low,AM011,1L-10L,TRUE,,2022-03-25 00:00:00
+MER00451,DevOps360 SaaS918,E-Commerce,Bronze,2022-04-20,West Bengal,Durgapur,Verified,Medium,AM005,<1L,TRUE,,2022-04-20 00:00:00
+MER00452,LeapEdu Platform501,SaaS,Silver,2021-07-05,Karnataka,Mangaluru,Pending,Low,AM008,1L-10L,TRUE,,2021-07-05 00:00:00
+MER00453,DataDrive Analytics353,EdTech,Bronze,2021-07-23,Kerala,Thiruvananthapuram,Verified,Medium,AM010,>1Cr,TRUE,,2021-07-23 00:00:00
+MER00454,FreshDeal FMCG744,SaaS,Platinum,2022-07-17,Kerala,Thrissur,Verified,Low,AM002,10L-1Cr,TRUE,,2022-07-17 00:00:00
+MER00455,JetTravel Pvt Ltd215,Media & Entertainment,Bronze,2021-11-29,Delhi,New Delhi,Verified,Low,AM002,1L-10L,FALSE,2022-11-06,2021-11-29 00:00:00
+MER00456,GreenMart Organic586,Logistics,Silver,2022-01-16,Kerala,Thiruvananthapuram,Verified,Medium,AM011,>1Cr,TRUE,,2022-01-16 00:00:00
+MER00457,LeapEdu Platform740,Insurance,Platinum,2022-10-23,Maharashtra,Mumbai,Verified,Low,AM018,10L-1Cr,TRUE,,2022-10-23 00:00:00
+MER00458,LeapEdu Platform455,Travel,Bronze,2023-01-21,Madhya Pradesh,Jabalpur,Verified,Low,AM002,1L-10L,TRUE,,2023-01-21 00:00:00
+MER00459,DataDrive Analytics672,HealthTech,Silver,2022-05-17,Telangana,Karimnagar,Verified,Low,AM020,>1Cr,TRUE,,2022-05-17 00:00:00
+MER00460,StyleHub Fashion264,SaaS,Silver,2022-04-06,Karnataka,Hubli,Verified,Medium,AM017,1L-10L,TRUE,,2022-04-06 00:00:00
+MER00461,FreshDeal FMCG119,FMCG,Bronze,2023-03-06,Haryana,Gurugram,Verified,Medium,AM013,<1L,TRUE,,2023-03-06 00:00:00
+MER00462,RapidShip Courier609,Travel,Silver,2022-09-20,Madhya Pradesh,Jabalpur,Verified,Medium,AM003,<1L,TRUE,,2022-09-20 00:00:00
+MER00463,CloudSuite SaaS282,EdTech,Platinum,2021-04-20,Andhra Pradesh,Visakhapatnam,Verified,High,AM016,1L-10L,TRUE,,2021-04-20 00:00:00
+MER00464,GreenMart Organic704,EdTech,Platinum,2021-08-15,Telangana,Hyderabad,Pending,Low,AM016,>1Cr,TRUE,,2021-08-15 00:00:00
+MER00465,MegaMall Retail181,Travel,Bronze,2021-03-04,West Bengal,Durgapur,Verified,Low,AM020,<1L,TRUE,,2021-03-04 00:00:00
+MER00466,LearnNow EdTech851,Insurance,Bronze,2021-03-21,Karnataka,Bengaluru,Verified,Low,AM013,<1L,TRUE,,2021-03-21 00:00:00
+MER00467,SkyFly Travels772,Insurance,Silver,2021-07-03,Delhi,Noida,Verified,Medium,AM019,1L-10L,TRUE,,2021-07-03 00:00:00
+MER00468,DataDrive Analytics819,HealthTech,Silver,2021-04-17,Punjab,Patiala,Verified,Medium,AM018,>1Cr,TRUE,,2021-04-17 00:00:00
+MER00469,DataDrive Analytics460,Travel,Silver,2021-11-29,Bihar,Bhagalpur,Pending,Low,AM008,1L-10L,TRUE,,2021-11-29 00:00:00
+MER00470,JetTravel Pvt Ltd484,Retail,Silver,2023-02-02,Madhya Pradesh,Gwalior,Rejected,Low,AM002,>1Cr,TRUE,,2023-02-02 00:00:00
+MER00471,TechNation Cloud116,Logistics,Gold,2021-11-06,Uttar Pradesh,Agra,Verified,High,AM009,>1Cr,FALSE,2022-08-20,2021-11-06 00:00:00
+MER00472,SkyFly Travels669,Retail,Bronze,2021-06-08,Haryana,Ambala,Verified,Low,AM019,<1L,TRUE,,2021-06-08 00:00:00
+MER00473,SafeShield Insurance930,Logistics,Gold,2022-02-14,Telangana,Hyderabad,Verified,Medium,AM006,1L-10L,TRUE,,2022-02-14 00:00:00
+MER00474,AgroLink Farms806,SaaS,Silver,2021-04-08,Kerala,Kochi,Verified,Medium,AM003,10L-1Cr,TRUE,,2021-04-08 00:00:00
+MER00475,PrintPro Design889,EdTech,Silver,2023-04-17,Gujarat,Surat,Verified,High,AM001,1L-10L,TRUE,,2023-04-17 00:00:00
+MER00476,PharmaEase Health491,Media & Entertainment,Silver,2021-02-12,Maharashtra,Pune,Verified,Medium,AM005,<1L,TRUE,,2021-02-12 00:00:00
+MER00477,StreamZone OTT502,Logistics,Bronze,2022-08-13,West Bengal,Siliguri,Verified,Low,AM005,1L-10L,TRUE,,2022-08-13 00:00:00
+MER00478,GrocerFast App685,Travel,Platinum,2022-02-13,Kerala,Thrissur,Verified,Low,AM005,1L-10L,TRUE,,2022-02-13 00:00:00
+MER00479,JetTravel Pvt Ltd599,Insurance,Bronze,2021-07-20,Rajasthan,Jodhpur,Verified,Low,AM014,1L-10L,TRUE,,2021-07-20 00:00:00
+MER00480,PrintPro Design689,FMCG,Gold,2022-02-28,Karnataka,Mysuru,Verified,Medium,AM001,10L-1Cr,TRUE,,2022-02-28 00:00:00
+MER00481,FreshDeal FMCG458,HealthTech,Bronze,2023-04-03,Haryana,Hisar,Verified,High,AM007,10L-1Cr,TRUE,,2023-04-03 00:00:00
+MER00482,CloudSuite SaaS875,Logistics,Bronze,2021-04-26,Kerala,Thiruvananthapuram,Pending,High,AM001,1L-10L,TRUE,,2021-04-26 00:00:00
+MER00483,DevOps360 SaaS213,Insurance,Silver,2021-01-24,Telangana,Warangal,Verified,Medium,AM009,1L-10L,TRUE,,2021-01-24 00:00:00
+MER00484,TechNation Cloud847,Insurance,Bronze,2022-11-16,Tamil Nadu,Chennai,Verified,Low,AM007,10L-1Cr,FALSE,2024-09-02,2022-11-16 00:00:00
+MER00485,TechNation Cloud377,FMCG,Silver,2021-01-09,Maharashtra,Mumbai,Verified,High,AM013,<1L,FALSE,2021-12-12,2021-01-09 00:00:00
+MER00486,HealthFirst Clinics620,Media & Entertainment,Gold,2021-11-20,Kerala,Kochi,Verified,Medium,AM015,1L-10L,TRUE,,2021-11-20 00:00:00
+MER00487,GreenMart Organic122,Retail,Gold,2022-06-27,Maharashtra,Thane,Verified,Low,AM012,1L-10L,TRUE,,2022-06-27 00:00:00
+MER00488,PlayStream Media341,Travel,Gold,2021-03-05,Uttar Pradesh,Lucknow,Rejected,High,AM008,<1L,TRUE,,2021-03-05 00:00:00
+MER00489,AgroLink Farms502,Media & Entertainment,Gold,2023-01-18,Punjab,Ludhiana,Verified,Medium,AM014,>1Cr,TRUE,,2023-01-18 00:00:00
+MER00490,PrintPro Design719,HealthTech,Silver,2021-05-15,Gujarat,Surat,Pending,Low,AM017,>1Cr,TRUE,,2021-05-15 00:00:00
+MER00491,CargoExpress Logistics888,FMCG,Bronze,2022-08-02,Tamil Nadu,Chennai,Verified,High,AM004,<1L,TRUE,,2022-08-02 00:00:00
+MER00492,MegaMall Retail249,Travel,Platinum,2021-11-23,Kerala,Thrissur,Verified,Medium,AM009,<1L,TRUE,,2021-11-23 00:00:00
+MER00493,JetTravel Pvt Ltd209,Media & Entertainment,Gold,2023-02-20,Tamil Nadu,Madurai,Verified,Medium,AM020,<1L,TRUE,,2023-02-20 00:00:00
+MER00494,RapidShip Courier126,Insurance,Platinum,2023-03-10,Gujarat,Rajkot,Verified,Low,AM013,1L-10L,TRUE,,2023-03-10 00:00:00
+MER00495,CloudSuite SaaS267,E-Commerce,Gold,2022-02-23,Delhi,Rohini,Rejected,Low,AM007,10L-1Cr,TRUE,,2022-02-23 00:00:00
+MER00496,MediQuick Health281,Retail,Bronze,2022-03-26,Bihar,Muzaffarpur,Pending,High,AM014,1L-10L,TRUE,,2022-03-26 00:00:00
+MER00497,LearnNow EdTech722,Media & Entertainment,Bronze,2023-01-08,Kerala,Kochi,Verified,Low,AM002,10L-1Cr,TRUE,,2023-01-08 00:00:00
+MER00498,QuickMart Retail631,Insurance,Silver,2023-01-23,Uttar Pradesh,Lucknow,Verified,Low,AM010,10L-1Cr,FALSE,2024-04-23,2023-01-23 00:00:00
+MER00499,PlayStream Media572,Insurance,Silver,2022-09-20,Tamil Nadu,Coimbatore,Verified,Medium,AM003,10L-1Cr,TRUE,,2022-09-20 00:00:00
+MER00500,SwiftLog Solutions284,Travel,Silver,2022-12-14,Madhya Pradesh,Gwalior,Verified,Low,AM015,1L-10L,TRUE,,2022-12-14 00:00:00
+MER00501,GreenMart Organic306,HealthTech,Silver,2021-09-14,Bihar,Patna,Verified,Medium,AM012,<1L,TRUE,,2021-09-14 00:00:00
+MER00502,GreenMart Organic493,HealthTech,Bronze,2022-06-08,Kerala,Thrissur,Verified,Low,AM006,>1Cr,TRUE,,2022-06-08 00:00:00
+MER00503,FinSecure Broking992,HealthTech,Bronze,2021-06-16,Punjab,Amritsar,Verified,Low,AM015,<1L,TRUE,,2021-06-16 00:00:00
+MER00504,FreshDeal FMCG220,E-Commerce,Gold,2021-07-27,Bihar,Bhagalpur,Verified,Low,AM001,1L-10L,FALSE,2022-06-11,2021-07-27 00:00:00
+MER00505,GrocerFast App343,Retail,Silver,2022-05-03,Delhi,New Delhi,Verified,Low,AM018,<1L,TRUE,,2022-05-03 00:00:00
+MER00506,PharmaEase Health670,E-Commerce,Bronze,2021-02-20,Andhra Pradesh,Guntur,Verified,High,AM019,10L-1Cr,TRUE,,2021-02-20 00:00:00
+MER00507,PlayStream Media439,HealthTech,Gold,2021-04-22,Bihar,Gaya,Verified,Medium,AM020,1L-10L,TRUE,,2021-04-22 00:00:00
+MER00508,StyleHub Fashion281,EdTech,Bronze,2022-01-04,West Bengal,Durgapur,Verified,High,AM003,10L-1Cr,TRUE,,2022-01-04 00:00:00
+MER00509,MegaMall Retail663,SaaS,Silver,2021-05-18,Karnataka,Hubli,Verified,Medium,AM007,1L-10L,TRUE,,2021-05-18 00:00:00
+MER00510,SwiftLog Solutions685,Retail,Bronze,2022-06-26,Kerala,Kozhikode,Verified,High,AM009,1L-10L,TRUE,,2022-06-26 00:00:00
+MER00511,TechNation Cloud462,Retail,Gold,2022-07-31,Bihar,Bhagalpur,Verified,High,AM008,10L-1Cr,TRUE,,2022-07-31 00:00:00
+MER00512,JetTravel Pvt Ltd101,Logistics,Platinum,2022-10-03,Karnataka,Mangaluru,Verified,Low,AM018,10L-1Cr,TRUE,,2022-10-03 00:00:00
+MER00513,JetTravel Pvt Ltd111,EdTech,Gold,2021-10-16,Punjab,Jalandhar,Verified,Medium,AM001,<1L,TRUE,,2021-10-16 00:00:00
+MER00514,ByteCart Technologies449,HealthTech,Bronze,2022-09-23,Rajasthan,Jodhpur,Verified,Low,AM016,>1Cr,TRUE,,2022-09-23 00:00:00
+MER00515,DevOps360 SaaS136,Insurance,Gold,2021-06-09,Punjab,Jalandhar,Verified,High,AM002,10L-1Cr,TRUE,,2021-06-09 00:00:00
+MER00516,PlayStream Media678,Logistics,Bronze,2022-07-23,Kerala,Kozhikode,Verified,High,AM012,<1L,TRUE,,2022-07-23 00:00:00
+MER00517,CloudSuite SaaS387,HealthTech,Platinum,2022-01-20,Andhra Pradesh,Nellore,Verified,Low,AM010,10L-1Cr,TRUE,,2022-01-20 00:00:00
+MER00518,ByteCart Technologies826,Logistics,Gold,2021-03-30,Maharashtra,Nagpur,Verified,Critical,AM007,1L-10L,TRUE,,2021-03-30 00:00:00
+MER00519,FreshDeal FMCG214,EdTech,Bronze,2023-03-08,Gujarat,Rajkot,Verified,Medium,AM017,<1L,TRUE,,2023-03-08 00:00:00
+MER00520,ByteCart Technologies595,HealthTech,Bronze,2021-11-14,Kerala,Kochi,Pending,High,AM005,<1L,TRUE,,2021-11-14 00:00:00
+MER00521,LearnNow EdTech570,SaaS,Bronze,2022-06-19,Rajasthan,Jaipur,Verified,Medium,AM003,1L-10L,TRUE,,2022-06-19 00:00:00
+MER00522,AgroLink Farms147,E-Commerce,Silver,2022-11-06,Karnataka,Hubli,Verified,Low,AM007,<1L,TRUE,,2022-11-06 00:00:00
+MER00523,SafeShield Insurance645,HealthTech,Bronze,2022-11-19,Gujarat,Surat,Verified,Low,AM020,1L-10L,TRUE,,2022-11-19 00:00:00
+MER00524,SwiftLog Solutions311,SaaS,Silver,2021-11-23,Uttar Pradesh,Kanpur,Verified,Low,AM011,1L-10L,TRUE,,2021-11-23 00:00:00
+MER00525,LearnNow EdTech233,E-Commerce,Silver,2022-11-23,Maharashtra,Mumbai,Verified,Low,AM020,10L-1Cr,FALSE,2024-02-18,2022-11-23 00:00:00
+MER00526,PharmaEase Health956,FMCG,Bronze,2022-09-24,Kerala,Thiruvananthapuram,Verified,Medium,AM018,<1L,TRUE,,2022-09-24 00:00:00
+MER00527,PrintPro Design873,Retail,Silver,2021-05-15,Madhya Pradesh,Bhopal,Verified,Medium,AM015,1L-10L,TRUE,,2021-05-15 00:00:00
+MER00528,QuickMart Retail247,Travel,Bronze,2021-09-22,Andhra Pradesh,Vijayawada,Verified,Medium,AM011,1L-10L,TRUE,,2021-09-22 00:00:00
+MER00529,ShopKart India166,HealthTech,Gold,2022-05-06,West Bengal,Durgapur,Verified,Medium,AM005,1L-10L,TRUE,,2022-05-06 00:00:00
+MER00530,HealthFirst Clinics937,EdTech,Bronze,2021-11-30,Kerala,Kozhikode,Verified,Low,AM014,<1L,TRUE,,2021-11-30 00:00:00
+MER00531,QuickMart Retail661,Media & Entertainment,Bronze,2022-01-29,Tamil Nadu,Salem,Verified,Low,AM011,1L-10L,FALSE,2022-10-29,2022-01-29 00:00:00
+MER00532,QuickMart Retail277,Media & Entertainment,Bronze,2023-01-28,Punjab,Patiala,Verified,Medium,AM011,1L-10L,TRUE,,2023-01-28 00:00:00
+MER00533,MegaMall Retail555,Media & Entertainment,Silver,2022-02-20,Tamil Nadu,Salem,Verified,Medium,AM002,<1L,FALSE,2022-08-10,2022-02-20 00:00:00
+MER00534,MegaMall Retail242,E-Commerce,Silver,2023-02-13,Bihar,Gaya,Verified,Low,AM010,1L-10L,TRUE,,2023-02-13 00:00:00
+MER00535,FinSecure Broking557,Media & Entertainment,Gold,2023-06-18,Delhi,Rohini,Pending,High,AM012,>1Cr,TRUE,,2023-06-18 00:00:00
+MER00536,FinSecure Broking108,SaaS,Bronze,2022-02-18,Haryana,Gurugram,Verified,Medium,AM002,<1L,TRUE,,2022-02-18 00:00:00
+MER00537,StyleHub Fashion940,Logistics,Gold,2021-10-16,Gujarat,Rajkot,Verified,Low,AM011,10L-1Cr,TRUE,,2021-10-16 00:00:00
+MER00538,HealthFirst Clinics490,HealthTech,Silver,2022-11-10,Rajasthan,Jodhpur,Verified,High,AM012,10L-1Cr,TRUE,,2022-11-10 00:00:00
+MER00539,CloudSuite SaaS395,E-Commerce,Bronze,2021-05-18,Andhra Pradesh,Vijayawada,Verified,Low,AM014,>1Cr,FALSE,2023-05-11,2021-05-18 00:00:00
+MER00540,CloudSuite SaaS186,Media & Entertainment,Bronze,2022-03-02,Tamil Nadu,Salem,Verified,Low,AM014,1L-10L,TRUE,,2022-03-02 00:00:00
+MER00541,DataDrive Analytics493,Media & Entertainment,Gold,2022-03-11,Gujarat,Rajkot,Pending,Low,AM017,<1L,TRUE,,2022-03-11 00:00:00
+MER00542,PrintPro Design659,FMCG,Silver,2021-02-08,Haryana,Gurugram,Verified,Critical,AM003,<1L,TRUE,,2021-02-08 00:00:00
+MER00543,StreamZone OTT639,Insurance,Bronze,2023-03-09,Andhra Pradesh,Visakhapatnam,Verified,Medium,AM008,1L-10L,TRUE,,2023-03-09 00:00:00
+MER00544,StreamZone OTT779,Media & Entertainment,Platinum,2022-10-11,Punjab,Jalandhar,Verified,High,AM018,10L-1Cr,TRUE,,2022-10-11 00:00:00
+MER00545,GrocerFast App564,Travel,Bronze,2022-08-11,Uttar Pradesh,Agra,Rejected,Medium,AM010,<1L,TRUE,,2022-08-11 00:00:00
+MER00546,GreenMart Organic711,E-Commerce,Silver,2023-03-15,Kerala,Thrissur,Verified,Medium,AM010,10L-1Cr,TRUE,,2023-03-15 00:00:00
+MER00547,TechNation Cloud127,SaaS,Silver,2021-05-10,Telangana,Karimnagar,Verified,Low,AM009,<1L,TRUE,,2021-05-10 00:00:00
+MER00548,SwiftLog Solutions718,Retail,Bronze,2023-01-27,Tamil Nadu,Madurai,Verified,Low,AM008,1L-10L,TRUE,,2023-01-27 00:00:00
+MER00549,DevOps360 SaaS640,Media & Entertainment,Platinum,2021-03-28,Andhra Pradesh,Vijayawada,Pending,Medium,AM014,10L-1Cr,TRUE,,2021-03-28 00:00:00
+MER00550,QuickMart Retail776,FMCG,Bronze,2021-06-21,West Bengal,Kolkata,Verified,Medium,AM004,<1L,TRUE,,2021-06-21 00:00:00
+MER00551,DataDrive Analytics508,Insurance,Silver,2023-02-04,West Bengal,Howrah,Verified,Medium,AM016,<1L,TRUE,,2023-02-04 00:00:00
+MER00552,SkyFly Travels991,FMCG,Platinum,2023-03-28,Rajasthan,Jaipur,Verified,Medium,AM012,>1Cr,TRUE,,2023-03-28 00:00:00
+MER00553,CargoExpress Logistics725,SaaS,Bronze,2021-10-07,Bihar,Patna,Verified,Medium,AM015,10L-1Cr,TRUE,,2021-10-07 00:00:00
+MER00554,StreamZone OTT347,FMCG,Bronze,2023-02-28,Kerala,Thiruvananthapuram,Verified,Low,AM001,10L-1Cr,TRUE,,2023-02-28 00:00:00
+MER00555,ShopKart India521,Logistics,Silver,2022-12-03,Karnataka,Hubli,Verified,Low,AM020,<1L,TRUE,,2022-12-03 00:00:00
+MER00556,TechNation Cloud772,EdTech,Bronze,2022-09-06,Bihar,Patna,Pending,Low,AM019,10L-1Cr,TRUE,,2022-09-06 00:00:00
+MER00557,FreshDeal FMCG213,EdTech,Gold,2021-10-29,Kerala,Thrissur,Pending,Low,AM014,10L-1Cr,TRUE,,2021-10-29 00:00:00
+MER00558,RapidShip Courier888,SaaS,Silver,2021-06-15,Madhya Pradesh,Bhopal,Verified,Low,AM002,<1L,TRUE,,2021-06-15 00:00:00
+MER00559,MegaMall Retail371,Logistics,Silver,2022-05-19,Tamil Nadu,Salem,Verified,Low,AM005,1L-10L,TRUE,,2022-05-19 00:00:00
+MER00560,CargoExpress Logistics323,EdTech,Bronze,2022-03-29,Haryana,Gurugram,Verified,Medium,AM009,10L-1Cr,TRUE,,2022-03-29 00:00:00
+MER00561,ShopKart India609,Travel,Bronze,2021-01-01,Tamil Nadu,Madurai,Verified,Low,AM013,1L-10L,TRUE,,2021-01-01 00:00:00
+MER00562,SkyFly Travels824,EdTech,Silver,2022-03-23,Madhya Pradesh,Indore,Verified,Critical,AM016,<1L,TRUE,,2022-03-23 00:00:00
+MER00563,StyleHub Fashion467,EdTech,Bronze,2022-02-15,Gujarat,Vadodara,Verified,Critical,AM003,10L-1Cr,FALSE,2024-02-07,2022-02-15 00:00:00
+MER00564,LeapEdu Platform884,Travel,Bronze,2021-06-30,Telangana,Warangal,Verified,Low,AM004,1L-10L,TRUE,,2021-06-30 00:00:00
+MER00565,EduPath Learning598,HealthTech,Bronze,2022-03-25,Karnataka,Bengaluru,Verified,Medium,AM019,<1L,TRUE,,2022-03-25 00:00:00
+MER00566,HealthFirst Clinics164,Retail,Silver,2021-11-12,Madhya Pradesh,Bhopal,Verified,Low,AM002,1L-10L,TRUE,,2021-11-12 00:00:00
+MER00567,JetTravel Pvt Ltd926,Insurance,Bronze,2022-04-15,Punjab,Ludhiana,Verified,Low,AM003,<1L,TRUE,,2022-04-15 00:00:00
+MER00568,CloudSuite SaaS600,HealthTech,Platinum,2022-09-26,Punjab,Amritsar,Verified,Low,AM010,10L-1Cr,FALSE,2024-09-19,2022-09-26 00:00:00
+MER00569,SwiftLog Solutions567,EdTech,Gold,2022-08-29,Haryana,Hisar,Verified,Medium,AM003,10L-1Cr,FALSE,2023-02-13,2022-08-29 00:00:00
+MER00570,CargoExpress Logistics445,FMCG,Bronze,2023-01-26,Madhya Pradesh,Bhopal,Rejected,Medium,AM005,1L-10L,TRUE,,2023-01-26 00:00:00
+MER00571,DevOps360 SaaS318,EdTech,Platinum,2021-06-27,Madhya Pradesh,Jabalpur,Verified,Low,AM012,1L-10L,TRUE,,2021-06-27 00:00:00
+MER00572,DataDrive Analytics349,Media & Entertainment,Silver,2021-05-17,Bihar,Bhagalpur,Verified,Low,AM016,<1L,TRUE,,2021-05-17 00:00:00
+MER00573,ShopKart India283,SaaS,Gold,2022-10-30,Bihar,Bhagalpur,Verified,Medium,AM016,10L-1Cr,TRUE,,2022-10-30 00:00:00
+MER00574,JetTravel Pvt Ltd246,HealthTech,Gold,2022-04-07,Punjab,Amritsar,Verified,Medium,AM020,>1Cr,TRUE,,2022-04-07 00:00:00
+MER00575,PharmaEase Health946,Logistics,Silver,2022-03-05,Madhya Pradesh,Bhopal,Rejected,Critical,AM020,1L-10L,FALSE,2022-12-31,2022-03-05 00:00:00
+MER00576,LeapEdu Platform652,Logistics,Gold,2023-02-28,Uttar Pradesh,Agra,Verified,Low,AM005,10L-1Cr,TRUE,,2023-02-28 00:00:00
+MER00577,PrintPro Design585,E-Commerce,Gold,2022-11-18,West Bengal,Durgapur,Verified,Low,AM011,1L-10L,TRUE,,2022-11-18 00:00:00
+MER00578,AgroLink Farms876,HealthTech,Platinum,2023-01-29,West Bengal,Howrah,Verified,Low,AM004,<1L,FALSE,2024-09-30,2023-01-29 00:00:00
+MER00579,QuickMart Retail838,FMCG,Silver,2021-11-30,West Bengal,Howrah,Verified,Low,AM004,<1L,TRUE,,2021-11-30 00:00:00
+MER00580,CargoExpress Logistics990,Retail,Silver,2021-08-14,Delhi,New Delhi,Pending,Low,AM020,1L-10L,FALSE,2023-06-04,2021-08-14 00:00:00
+MER00581,HealthFirst Clinics482,SaaS,Silver,2021-07-18,Tamil Nadu,Coimbatore,Verified,Low,AM019,<1L,TRUE,,2021-07-18 00:00:00
+MER00582,CloudSuite SaaS213,FMCG,Silver,2022-03-05,Andhra Pradesh,Vijayawada,Pending,Medium,AM020,>1Cr,TRUE,,2022-03-05 00:00:00
+MER00583,FinSecure Broking666,Retail,Gold,2022-02-26,Andhra Pradesh,Vijayawada,Verified,High,AM009,<1L,TRUE,,2022-02-26 00:00:00
+MER00584,CargoExpress Logistics853,Logistics,Gold,2021-12-02,Andhra Pradesh,Vijayawada,Pending,High,AM014,>1Cr,TRUE,,2021-12-02 00:00:00
+MER00585,LearnNow EdTech581,Travel,Bronze,2021-02-04,Kerala,Thrissur,Verified,Medium,AM004,1L-10L,TRUE,,2021-02-04 00:00:00
+MER00586,QuickMart Retail185,Logistics,Bronze,2022-12-11,Uttar Pradesh,Kanpur,Verified,Low,AM003,<1L,TRUE,,2022-12-11 00:00:00
+MER00587,RapidShip Courier412,Media & Entertainment,Bronze,2023-05-29,Tamil Nadu,Chennai,Rejected,Low,AM005,10L-1Cr,TRUE,,2023-05-29 00:00:00
+MER00588,HealthFirst Clinics289,E-Commerce,Bronze,2022-10-04,Madhya Pradesh,Bhopal,Verified,Medium,AM017,<1L,TRUE,,2022-10-04 00:00:00
+MER00589,CargoExpress Logistics870,Logistics,Bronze,2022-09-20,Telangana,Hyderabad,Verified,Low,AM002,1L-10L,TRUE,,2022-09-20 00:00:00
+MER00590,PrintPro Design790,Retail,Bronze,2021-04-24,Gujarat,Ahmedabad,Verified,Low,AM018,10L-1Cr,TRUE,,2021-04-24 00:00:00
+MER00591,StyleHub Fashion826,EdTech,Gold,2021-12-09,Madhya Pradesh,Gwalior,Verified,Medium,AM007,10L-1Cr,TRUE,,2021-12-09 00:00:00
+MER00592,LeapEdu Platform330,Travel,Silver,2021-10-01,Gujarat,Vadodara,Verified,Low,AM015,1L-10L,TRUE,,2021-10-01 00:00:00
+MER00593,SkyFly Travels949,Insurance,Silver,2022-06-29,Karnataka,Hubli,Verified,Low,AM003,<1L,TRUE,,2022-06-29 00:00:00
+MER00594,AgroLink Farms568,EdTech,Gold,2021-07-03,Karnataka,Bengaluru,Verified,Low,AM005,1L-10L,TRUE,,2021-07-03 00:00:00
+MER00595,QuickFix Services309,Insurance,Bronze,2021-01-24,Uttar Pradesh,Kanpur,Verified,Low,AM001,<1L,TRUE,,2021-01-24 00:00:00
+MER00596,MediQuick Health122,FMCG,Bronze,2023-05-05,Andhra Pradesh,Nellore,Verified,Medium,AM011,1L-10L,TRUE,,2023-05-05 00:00:00
+MER00597,RapidShip Courier813,Media & Entertainment,Bronze,2022-04-01,Uttar Pradesh,Kanpur,Pending,Low,AM009,<1L,TRUE,,2022-04-01 00:00:00
+MER00598,EduPath Learning395,Retail,Bronze,2021-06-01,Madhya Pradesh,Indore,Verified,Low,AM018,<1L,TRUE,,2021-06-01 00:00:00
+MER00599,FreshDeal FMCG959,HealthTech,Bronze,2022-11-14,Kerala,Thiruvananthapuram,Verified,Critical,AM019,<1L,TRUE,,2022-11-14 00:00:00
+MER00600,SafeShield Insurance478,FMCG,Gold,2022-12-26,Tamil Nadu,Coimbatore,Verified,Medium,AM006,1L-10L,FALSE,2024-01-14,2022-12-26 00:00:00
+MER00601,SwiftLog Solutions125,Retail,Bronze,2023-02-26,Rajasthan,Udaipur,Verified,Critical,AM018,>1Cr,TRUE,,2023-02-26 00:00:00
+MER00602,ByteCart Technologies762,Media & Entertainment,Silver,2021-10-24,Kerala,Thiruvananthapuram,Verified,Medium,AM015,1L-10L,TRUE,,2021-10-24 00:00:00
+MER00603,SwiftLog Solutions849,EdTech,Bronze,2021-05-23,West Bengal,Durgapur,Verified,Medium,AM008,1L-10L,TRUE,,2021-05-23 00:00:00
+MER00604,MediQuick Health434,Logistics,Silver,2021-07-19,Maharashtra,Nagpur,Verified,Low,AM015,10L-1Cr,TRUE,,2021-07-19 00:00:00
+MER00605,MediQuick Health624,Insurance,Gold,2021-11-22,Rajasthan,Jaipur,Pending,Low,AM005,10L-1Cr,TRUE,,2021-11-22 00:00:00
+MER00606,CargoExpress Logistics478,SaaS,Silver,2021-10-19,Rajasthan,Kota,Pending,Low,AM015,10L-1Cr,TRUE,,2021-10-19 00:00:00
+MER00607,CargoExpress Logistics922,Travel,Silver,2023-04-06,West Bengal,Siliguri,Verified,Medium,AM003,<1L,TRUE,,2023-04-06 00:00:00
+MER00608,PlayStream Media586,Travel,Silver,2021-12-10,Andhra Pradesh,Visakhapatnam,Verified,Medium,AM009,1L-10L,FALSE,2023-10-05,2021-12-10 00:00:00
+MER00609,StyleHub Fashion573,Travel,Silver,2021-05-21,Kerala,Kozhikode,Verified,Low,AM010,10L-1Cr,TRUE,,2021-05-21 00:00:00
+MER00610,PlayStream Media605,HealthTech,Bronze,2021-08-18,Uttar Pradesh,Agra,Verified,Medium,AM016,<1L,FALSE,2021-10-19,2021-08-18 00:00:00
+MER00611,RapidShip Courier394,E-Commerce,Gold,2022-12-06,Rajasthan,Jaipur,Verified,Low,AM003,1L-10L,TRUE,,2022-12-06 00:00:00
+MER00612,EduPath Learning695,Retail,Silver,2023-06-09,West Bengal,Kolkata,Verified,Medium,AM001,10L-1Cr,TRUE,,2023-06-09 00:00:00
+MER00613,FreshDeal FMCG695,HealthTech,Gold,2022-04-18,Maharashtra,Nagpur,Verified,Low,AM014,1L-10L,TRUE,,2022-04-18 00:00:00
+MER00614,EduPath Learning149,Insurance,Silver,2022-10-17,Telangana,Warangal,Verified,Low,AM004,1L-10L,TRUE,,2022-10-17 00:00:00
+MER00615,FreshDeal FMCG656,SaaS,Bronze,2023-04-27,Gujarat,Vadodara,Verified,Medium,AM004,1L-10L,TRUE,,2023-04-27 00:00:00
+MER00616,EduPath Learning943,Retail,Platinum,2022-06-15,Tamil Nadu,Salem,Verified,High,AM004,<1L,TRUE,,2022-06-15 00:00:00
+MER00617,SkyFly Travels326,Insurance,Gold,2022-07-27,Andhra Pradesh,Visakhapatnam,Verified,High,AM004,10L-1Cr,TRUE,,2022-07-27 00:00:00
+MER00618,PrintPro Design117,Retail,Silver,2022-12-09,West Bengal,Durgapur,Verified,Low,AM004,<1L,TRUE,,2022-12-09 00:00:00
+MER00619,QuickFix Services810,HealthTech,Bronze,2021-11-11,Tamil Nadu,Chennai,Verified,Medium,AM004,<1L,TRUE,,2021-11-11 00:00:00
+MER00620,LeapEdu Platform595,Insurance,Silver,2021-07-21,Madhya Pradesh,Bhopal,Verified,High,AM002,<1L,TRUE,,2021-07-21 00:00:00
+MER00621,RapidShip Courier110,Logistics,Gold,2021-05-07,Madhya Pradesh,Indore,Verified,Low,AM003,<1L,TRUE,,2021-05-07 00:00:00
+MER00622,StreamZone OTT384,Media & Entertainment,Silver,2021-06-14,Haryana,Faridabad,Verified,Low,AM019,10L-1Cr,TRUE,,2021-06-14 00:00:00
+MER00623,SkyFly Travels322,Insurance,Gold,2021-10-16,Kerala,Kochi,Rejected,Low,AM007,>1Cr,TRUE,,2021-10-16 00:00:00
+MER00624,QuickFix Services824,EdTech,Silver,2022-08-27,West Bengal,Howrah,Pending,Critical,AM014,<1L,TRUE,,2022-08-27 00:00:00
+MER00625,QuickMart Retail517,EdTech,Bronze,2021-11-18,Karnataka,Mysuru,Verified,Low,AM010,1L-10L,TRUE,,2021-11-18 00:00:00
+MER00626,LearnNow EdTech184,Media & Entertainment,Silver,2022-01-30,Gujarat,Vadodara,Verified,High,AM008,1L-10L,TRUE,,2022-01-30 00:00:00
+MER00627,PlayStream Media975,Retail,Gold,2021-03-13,Rajasthan,Udaipur,Verified,Critical,AM016,10L-1Cr,TRUE,,2021-03-13 00:00:00
+MER00628,HealthFirst Clinics548,Travel,Bronze,2021-03-29,Uttar Pradesh,Varanasi,Verified,Critical,AM006,<1L,TRUE,,2021-03-29 00:00:00
+MER00629,JetTravel Pvt Ltd446,Travel,Silver,2022-02-18,Delhi,Noida,Verified,Medium,AM019,1L-10L,TRUE,,2022-02-18 00:00:00
+MER00630,LeapEdu Platform908,Media & Entertainment,Bronze,2022-02-14,Madhya Pradesh,Gwalior,Rejected,Medium,AM005,10L-1Cr,TRUE,,2022-02-14 00:00:00
+MER00631,SwiftLog Solutions225,HealthTech,Silver,2021-08-25,Telangana,Hyderabad,Verified,Low,AM003,1L-10L,TRUE,,2021-08-25 00:00:00
+MER00632,ShopKart India283,Media & Entertainment,Silver,2021-12-01,Rajasthan,Jaipur,Verified,Medium,AM017,10L-1Cr,TRUE,,2021-12-01 00:00:00
+MER00633,DevOps360 SaaS577,SaaS,Silver,2022-05-25,Delhi,Rohini,Verified,Medium,AM001,>1Cr,TRUE,,2022-05-25 00:00:00
+MER00634,LearnNow EdTech540,Travel,Bronze,2022-01-28,Bihar,Bhagalpur,Verified,Low,AM018,10L-1Cr,TRUE,,2022-01-28 00:00:00
+MER00635,LeapEdu Platform410,SaaS,Bronze,2022-05-19,Bihar,Bhagalpur,Verified,Low,AM016,10L-1Cr,TRUE,,2022-05-19 00:00:00
+MER00636,RapidShip Courier652,Insurance,Silver,2022-07-30,Haryana,Gurugram,Verified,Low,AM013,1L-10L,TRUE,,2022-07-30 00:00:00
+MER00637,EduPath Learning884,HealthTech,Silver,2021-01-29,Telangana,Karimnagar,Verified,Medium,AM001,10L-1Cr,TRUE,,2021-01-29 00:00:00
+MER00638,PharmaEase Health449,Travel,Gold,2021-12-20,Rajasthan,Udaipur,Verified,Low,AM008,1L-10L,TRUE,,2021-12-20 00:00:00
+MER00639,FinSecure Broking186,FMCG,Bronze,2023-06-09,Bihar,Gaya,Verified,Low,AM015,10L-1Cr,TRUE,,2023-06-09 00:00:00
+MER00640,CargoExpress Logistics681,Media & Entertainment,Bronze,2021-10-01,Uttar Pradesh,Lucknow,Rejected,Low,AM013,1L-10L,FALSE,2023-03-25,2021-10-01 00:00:00
+MER00641,SwiftLog Solutions927,Retail,Gold,2022-11-23,West Bengal,Durgapur,Verified,Low,AM014,<1L,TRUE,,2022-11-23 00:00:00
+MER00642,PharmaEase Health967,SaaS,Platinum,2023-05-21,Madhya Pradesh,Jabalpur,Verified,Critical,AM013,10L-1Cr,TRUE,,2023-05-21 00:00:00
+MER00643,TechNation Cloud860,FMCG,Bronze,2022-08-16,Karnataka,Hubli,Verified,High,AM016,1L-10L,TRUE,,2022-08-16 00:00:00
+MER00644,EduPath Learning914,SaaS,Bronze,2021-11-06,Karnataka,Mangaluru,Verified,Low,AM014,1L-10L,TRUE,,2021-11-06 00:00:00
+MER00645,TechNation Cloud627,E-Commerce,Bronze,2022-07-15,West Bengal,Howrah,Verified,Low,AM015,<1L,TRUE,,2022-07-15 00:00:00
+MER00646,PharmaEase Health645,Media & Entertainment,Silver,2023-02-27,Madhya Pradesh,Bhopal,Verified,Low,AM005,<1L,TRUE,,2023-02-27 00:00:00
+MER00647,StreamZone OTT801,EdTech,Silver,2022-03-22,Madhya Pradesh,Indore,Pending,Low,AM010,1L-10L,TRUE,,2022-03-22 00:00:00
+MER00648,SafeShield Insurance803,Logistics,Gold,2021-09-02,Haryana,Gurugram,Verified,High,AM015,1L-10L,TRUE,,2021-09-02 00:00:00
+MER00649,CargoExpress Logistics532,HealthTech,Bronze,2021-07-26,Punjab,Amritsar,Verified,High,AM018,<1L,TRUE,,2021-07-26 00:00:00
+MER00650,QuickFix Services143,FMCG,Silver,2021-01-21,Kerala,Kozhikode,Pending,High,AM014,10L-1Cr,FALSE,2021-06-15,2021-01-21 00:00:00
