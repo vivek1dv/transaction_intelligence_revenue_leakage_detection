@@ -53,7 +53,7 @@ Zorvyn is facing a compounding revenue problem: ₹1.57M is leaking through dela
 
 - **Fraud Block and Bank Declined failures are non-recoverable and need fraud model review.** Fraud Block accounts for 8 failures and ₹1.13L in lost GMV. Since these cannot be retried, they require upstream fraud model tuning rather than session-level recovery.
 
-![alt text](https://github.com/vivek1dv/transaction_intelligence_revenue_leakage_detection/blob/main/Merchant%20Health.png)
+![alt text](https://github.com/vivek1dv/transaction_intelligence_revenue_leakage_detection/blob/main/Transaction%20Health.png)
 
 
 ### Revenue Leakage & Settlement Analysis
